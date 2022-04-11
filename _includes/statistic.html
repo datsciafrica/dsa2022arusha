@@ -1,0 +1,40 @@
+<!-- Begin Statistic Section -->
+<section id="statistic">
+    <div class="row">
+        <div class="col-lg-8 col-lg-offset-2 col-md-12 col-xs-12"> 
+
+
+            <img class="img img-responsive text-center" src="{{ site.baseurl }}/img/about-section/dsainAfrica.png" style="width: 100%;">
+            <caption>Locations where DSA events have been and are planned to be held plus when they were/will be held.</caption>
+            <br><br><br>
+        </div>
+    </div>
+    <div class="row row-flex">
+        <div class="col-lg-12 col-md-12 col-xs-12"> 
+            <section id="statistic" class="statistic image-section parallax" style="background-image: url({{ site.baseurl }}/img/sections-background/{{ site.statisticBlockImage }});">
+                <div class="overlay solid-overlay"></div>
+                <div class="content-wrapper">
+                    <div class="col-lg-10 col-lg-offset-1 col-md-12 col-xs-12">
+                        {% assign animationDelay = 0 %}
+                        {% for statistic in site.statisticBlock %}
+    <!--                    {% assign colWidth = 12 | divided_by: forloop.length %}-->
+                        <div class="col-md-4 col-xs-12">  
+                            <div class="counter animated hiding" data-animation="fadeInDown" data-delay="{{ animationDelay }}">
+                                <div class="stat"><span class="timer" data-from="0" data-to="{{ statistic.count}}">{{ statistic.count}}</span>{{ statistic.specialCharacter}}</div>
+                                <div class="stat-info">{{ statistic.info}}</div>
+                                <hr>
+                                <p class="small">{{ statistic.detail}}</p>
+                            </div>
+                        </div>
+                        {% assign animationDelay = animationDelay | plus:500 %}
+                        {% assign check = forloop.index | modulo:2 %}
+                        {% if check == 0 %} <div class="clearfix visible-xs"></div> {% endif %}
+                        {% endfor %}
+                    </div>
+                </div>
+            </section>
+        </div>
+    </div>
+</section>
+
+<!-- End Statistic Section -->

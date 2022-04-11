@@ -1,0 +1,712 @@
+-
+  id: mpofu
+  name: "Mpofu"
+  surname: "Nontokozo"
+  title: "Data Science lecturer"
+  company: "Sol Plaatje University"
+  thumbnailUrl: person.jpg 
+#  social:
+#    - {name: "twitter", link: "https://twitter.com/mmubangizi15"}
+  ribbon:
+    - {abbr: "GC", title: "General Chair", url: "https://datascienceafrica.org"}
+-
+  id: ciira
+  name: "Ciira"
+  surname: "Maina"
+  company: "Dedan Kimathi University of Technology"
+  title: "Senior Lecturer and Director, Center for Data Science and AI"
+  bio: ""
+  thumbnailUrl: ciira.jpg
+  social:
+    - {name: "twitter", link: "https://twitter.com/CwaMaina"}
+    - {name: "site", link: "http://ciirawamaina.com/"}
+  ribbon:
+    - {abbr: "DBM", title: "DSA Board Chair", url: "https://datascienceafrica.org"}
+-
+  id: dina
+  name: "Dina"
+  surname: "Machuve"
+  company: "Lacuna Fund Steering Committee"
+  title: "Member"
+  bio: ""
+  thumbnailUrl: dina.jpg
+  social:
+    - {name: "twitter", link: "https://twitter.com/dmachuve"}
+    - {name: "site", link: "https://twiga2.github.io/dmachuve/"}
+  ribbon:
+    - {abbr: "DBM", title: "DSA Board Treasurer", url: "https://datascienceafrica.org"}
+-
+  id: ernest
+  name: "Ernest"
+  surname: "Mwebabze"
+  company: "Sunbird AI"
+  title: "Director"
+  bio: ""
+  thumbnailUrl: earnest.jpg
+  social:
+    - {name: "twitter", link: "https://twitter.com/earnest"}
+  ribbon:
+    - {abbr: "DBM", title: "DSA Board Member", url: "https://datascienceafrica.org"}
+-
+  id: elaine
+  name: "Elaine"
+  surname: "Nsoesie"
+  company: "Boston University"
+  title: "Assistant Professor"
+  bio: "a Computational Epidemiologist with a passion for applying novel data and methods to global health problems.She leads a team of computational social scientists, public health experts and computer scientists at Boston University's Department of Global Health. She is also a Data Science Fellow, as part of the BU Data Science Initiative at the Hariri Institute for Computing. She was born and raised in Cameroon."
+  thumbnailUrl: elaine.jpg
+  social:
+    - {name: "twitter", link: "https://twitter.com/ensoesie"}
+  ribbon:
+    - {abbr: "PC", title: "Program Chair", url: "https://datascienceafrica.org"}
+#-
+#  id: billy
+#  name: "Billy"
+#  surname: "Okal"
+#  company: "Voyage Auto"
+#  title: "Senior Research Engineer"
+#  bio: ""
+#  thumbnailUrl: billy.jpg
+#  ribbon:
+#    - {abbr: "DBM", title: "DSA Board Member", url: "https://datascienceafrica.org"}
+#    - {abbr: "PC", title: "Program Chair", url: "https://datascienceafrica.org"}
+#  social:
+#    - {name: "twitter", link: "https://twitter.com/jadalawa"}
+#-
+#  id: damon
+#  name: "Damon"
+#  surname: "Civin"
+#  company: "Facebook"
+#  title: "Head of Data Science, Growth"
+#  bio: ""
+#  thumbnailUrl: damon.jpg
+#  social:
+#    - {name: "twitter", link: "https://twitter.com/DCivin"}
+#
+-
+  id: neema
+  name: "Neema"
+  surname: "Mduma"
+  company: "Nelson Mandela African Institute of Science and Technology"
+  title: "Assistant lecturer & PhD fellow"
+  bio: ""
+  thumbnailUrl: neema.jpg
+  social:
+    - {name: "twitter", link: "https://twitter.com/nakadori"}
+
+-
+  id: neil
+  name: "Neil"
+  surname: "Lawrence"
+  company: "University of Cambridge"
+  title: "Professor"
+  bio: ""
+  thumbnailUrl: neil.jpg
+  social:
+    - {name: "twitter", link: "https://twitter.com/lawrend"}
+  ribbon:
+    - {abbr: "DBA", title: "DSA Board Advisor", url: "https://datascienceafrica.org"}
+#-
+#  id: johnquinn
+#  name: "John"
+#  surname: "Quinn"
+#  company: "Google AI"
+#  title: "Research Scientist"
+#  bio: ""
+#  thumbnailUrl: johnquinn.jpg
+#  ribbon:
+#    - {abbr: "DBA", title: "DSA Board Advisor", url: "https://datascienceafrica.org"}
+#-
+#  id: mikesmith
+#  name: "Mike"
+#  surname: "Smith"
+#  company: "Sheffield University"
+#  title: "Post Doc"
+#  bio: ""
+#  thumbnailUrl: mike.jpg
+#-
+#  id: joyce
+#  name: "Joyce"
+#  surname: "Nabende"
+#  company: "Makerere University"
+#  title: "Lecturer & Head of AI Lab"
+#  thumbnailUrl: joyce.jpg
+#  bio: ""
+#  social:
+#    - {name: "twitter", link: "https://twitter.com/j_nabende"}
+#    - {name: "site", link: "https://sites.google.com/view/jnabende/home?authuser=0"}
+#  ribbon:
+#    - {abbr: "DBM", title: "DSA Board Member", url: "https://datascienceafrica.org"}
+-
+  id: morine
+  name: "Morine"
+  surname: "Amutorine"
+  title: "Data Analytics Assistant"
+  company: "UN Pulse Lab Kampala"
+  thumbnailUrl: morine.jpg
+  social:
+    - {name: "twitter", link: "https://twitter.com/theamutorine"}
+    - {name: "site", link: "http://site.com/"}
+  ribbon:
+    - {abbr: "DBA", title: "DSA Board Member", url: "https://datascienceafrica.org"}
+#-
+#  id: engineer
+#  name: "Engineer"
+#  surname: "Bainomugisha"
+#  title: "Associate Professor & Department Chair (CS)"
+#  company: "Makerere University"
+#  thumbnailUrl: engineer.png
+#  social:
+#    - {name: "twitter", link: "https://twitter.com/iBaino"}
+#    - {name: "site", link: "http://ibaino.net"}
+#  ribbon:
+#    - {abbr: "FWC", title: "Field Work Chair", url: "https://datascienceafrica.org"}
+#
+-
+  id: claire
+  name: "Claire"
+  surname: "Babirye"
+  title: "Research Assistant"
+  company: "Makerere AI Lab"
+  thumbnailUrl: claire2.jpg
+  social:
+    - {name: "twitter", link: "https://twitter.com/bitsclarybits"}
+-
+  id: benakera
+  name: "Benjamin"
+  surname: "Akera"
+  title: "Research Assistant, AI Lab & Co-founder Feyti Analytics"
+  company: "MILA & Makerere University"
+  thumbnailUrl: Akera.jpg
+  social:
+    - {name: "twitter", link: "https://twitter.com/benjaminakera"}
+#-
+#  id: andreas
+#  name: "Andreas"
+#  surname: "Damianou"
+#  title: "Senior Machine Learning Scientist "
+#  company: "Amazon"
+#  thumbnailUrl: andreas.jpg
+#  social:
+#    - {name: "twitter", link: "https://twitter.com/adamianou"}
+#    - {name: "site", link: "http://adamian.github.io"}
+#-
+#  id: berens
+#  name: "Philipp"
+#  surname: "Berens"
+#  title: "Professor of Data Science"
+#  company: "University of Tübingen"
+#  thumbnailUrl: berens.jpg
+#  social:
+#    - {name: "twitter", link: "https://twitter.com/CellTypist"}
+#    - {name: "site", link: "http://www.eye-tuebingen.de/berens/"}
+-
+  id: andrei
+  name: "Andrei"
+  surname: "Paleyes"
+  title: "PhD Candidate"
+  company: "University of Cambridge"
+  thumbnailUrl: andrei.jpg
+  social:
+    - {name: "site", link: "https://www.linkedin.com/in/andreipaleyes?originalSubdomain=uk"}
+#-
+#  id: charles
+#  name: "Charles"
+#  surname: "Saidu"
+#  title: "PhD Candidate"
+#  company: "African University of Science & Technology, Abuja"
+#  thumbnailUrl: charles.jpg
+#  social:
+#    - {name: "twitter", link: "https://twitter.com/charlesity"}
+#-
+#  id: melese
+#  name: "Michael"
+#  surname: "Melese"
+#  title: "Assistant Professor"
+#  company: "Addis Ababa University"
+#  thumbnailUrl: melese.jpg
+#  social:
+#    - {name: "site", link: "www.linkedin.com/in/michaelmelese"}
+#-
+#  id: justus
+#  name: "Justus Bernard"
+#  surname: "Muhwezi"
+#  title: "Head, Geo-Information Services"
+#  company: "Uganda Bureau of Statistics(UBOS)"
+#  thumbnailUrl: BJMuhwezi.jpg
+#  social:
+#    - {name: "twitter", link: "https://twitter.com/MuhweziBernardJ"}
+#-
+#  id: pompe
+#  name: "Alex"
+#  surname: "Pompe"
+#  title: "Research Manager"
+#  company: "Facebook"
+#  thumbnailUrl: pompe.jpg
+#-
+#  id: sodomka
+#  name: "Eric"
+#  surname: "Sodomka"
+#  title: "Research Scientist"
+#  company: "Facebook"
+#  thumbnailUrl: sodomka.jpg
+#-
+#  id: nasia
+#  name: "Nasia"
+#  surname: "Ntalla"
+#  title: ""
+#  company: "Facebook"
+#  thumbnailUrl: person.jpg
+#-
+#  id: kuldip
+#  name: "Kuldip"
+#  surname: "Bhathal"
+#  title: ""
+#  company: "Facebook"
+#  thumbnailUrl: person.jpg
+#-
+#  id: meissner
+#  name: "Eric"
+#  surname: "Meissner"
+#  title: "PhD Student"
+#  company: "University of Cambridge"
+#  thumbnailUrl: meissner.jpg
+#-
+#  id: jennifer
+#  name: "Jennifer"
+#  surname: "Miles"
+#  title: "Senior Mediator and Program Manager"
+#  company: "Lacuna Fund"
+#  thumbnailUrl: jennifer.jpg
+#-
+#  id: hidalgo
+#  name: "Paula"
+#  surname: "Hidalgo-Sanchis"
+#  title: "Innovation Advisor"
+#  company: "UN Pulse Lab"
+#  thumbnailUrl: hidalgo.jpg
+#-
+#  id: tom
+#  name: "Tom"
+#  surname: "Dietterich"
+#  title: "Professor (Emeritus)"
+#  company: "Oregon State University"
+#  thumbnailUrl: tom.jpg
+#-
+#  id: irene
+#  name: "Irene"
+#  surname: "Tematelewo"
+#  title: "PhD Student"
+#  company: "Oregon State University"
+#  thumbnailUrl: irene.jpg
+#-
+#  id: tadesse
+#  name: "Tadesse"
+#  surname: "Zemicheal"
+#  title: "PhD Student"
+#  company: "Oregon State University"
+#  thumbnailUrl: tadesse.jpg
+#-
+#  id: shalmali
+#  name: "Shalmali"
+#  surname: "Joshi"
+#  title: "PostDoc"
+#  company: "Vector Institute"
+#  thumbnailUrl: shalmali.jpg
+-
+  id: hewitt
+  name: "Hewitt"
+  surname: "Tusiime"
+  title: "Student"
+  company: "Makerere University"
+  thumbnailUrl: hewitt.jpg
+#-
+#  id: dorothy
+#  name: "Dorothy"
+#  surname: "Kabarozi"
+#  title: "Software Engineer"
+#  company: "Makerere University"
+#  thumbnailUrl: dorothy.jpg
+#-
+#  id: bailey
+#  name: "Mike"
+#  surname: "Bailey"
+#  title: "Research Science Manager"
+#  company: "Facebook"
+#  thumbnailUrl: bailey.jpg
+#-
+#  id: megan_allen
+#  name: "Megan"
+#  surname: "Allen"
+#  title: ""
+#  company: ""
+#  thumbnailUrl: person.jpg
+#-
+#  id: rediet
+#  name: "Rediet"
+#  surname: "Abebe"
+#  title: "Junior Fellow (Havard Society of Fellows)"
+#  company: "Havard University"
+#  thumbnailUrl: Rediet.jpg
+#-
+#  id: abeba
+#  name: "Abeba"
+#  surname: "Birhane"
+#  title: "PhD Candidate"
+#  company: "University College Dublin & Lero"
+#  thumbnailUrl: abeba.jpg
+#-
+#  id: irenelo
+#  name: "Irene"
+#  surname: "Lo"
+#  title: "Assistant Professor"
+#  company: "Stanford University"
+#  thumbnailUrl: irenelo.jpg
+#-
+#  id: ana_andreea
+#  name: "Ana-Andreea"
+#  surname: "Stoica"
+#  title: "PhD Candidate"
+#  company: "Columbia University"
+#  thumbnailUrl: ana.jpg
+#-
+#  id: francisco
+#  name: "Francisco"
+#  surname: "Marmolejo"
+#  title: "PhD Candidate"
+#  company: "University of Oxford"
+#  thumbnailUrl: francisco.png
+#-
+#  id: obaido
+#  name: "George"
+#  surname: "Obaido"
+#  title: "Research Associate"
+#  company: "University of Witwatersrand"
+#  thumbnailUrl: george.jpg
+#-
+#  id: lilyxu
+#  name: "Lily"
+#  surname: "Xu"
+#  title: "PhD Candidate"
+#  company: "Havard University"
+#  thumbnailUrl: lilyxu.jpg
+#-
+#  id: wanyili
+#  name: "Wanyi"
+#  surname: "Li"
+#  title: "PhD Candidate"
+#  company: "Stanford University"
+#  thumbnailUrl: wanyi.png
+#-
+#  id: samuel
+#  name: "Samuel"
+#  surname: "Taggart"
+#  title: "Assistant Professor"
+#  company: "Oberlin College"
+#  thumbnailUrl: sam.jpg
+#-
+#  id: jared
+#  name: "Jared"
+#  surname: "Makario"
+#  title: "Research Intern"
+#  company: "Center for Data Science and AI, Dedan Kimathi University of Technology"
+#  thumbnailUrl: jared.jpg
+-
+  id: jason
+  name: "Jason"
+  surname: "Kabi"
+  title: "Research Intern"
+  company: "Center for Data Science and AI, Dedan Kimathi University of Technology"
+  thumbnailUrl: JasonKabi.jpg
+#-
+#  id: shelmith
+#  name: "Shelmith"
+#  surname: "Kariuki"
+#  title: "Senior Data Analyst"
+#  company: "Independent Consultant"
+#  thumbnailUrl: ShelDSA.jpg
+-
+  id: sabelo
+  name: "Sabelo"
+  surname: "Mhlambi"
+  title: "Fellow"
+  company: "Berkman Klein Center for Internet & Society, Havard University"
+  thumbnailUrl: sabelo.jpg
+#-
+#  id: beatrice
+#  name: "Beatrice"
+#  surname: "Kariuki"
+#  title: "Consultant, Public health specialist and health data analyst"
+#  company: ""
+#  thumbnailUrl: beatrice.jpg
+#
+#
+#
+##
+##
+##
+## Lacuna
+## Aissatou Bah
+## Nyalleng
+## Moustapha??
+#
+#
+#
+#
+##
+##
+##
+## DO NOT REMOTE THIS DUMMY SPEAKER. USED AS FILLER
+##
+#
+-
+  id: suvodeep
+  name: "Suvodeep"
+  surname: "Mazumdar"
+  title: "Lecturer in Data Analytics"
+  company: "The University of Sheffield"
+  thumbnailUrl: Dr_Suvodeep_Mazumdar.jpeg
+  social:
+    - {name: "site", link: "https://www.sheffield.ac.uk/is/people/academic/suvodeep-mazumdar"}
+#-
+#  id: nafeesa
+#  name: "Nafeesa"
+#  surname: "Alibedi"
+#  title: "TBC"
+#  company: "TBC"
+#  thumbnailUrl: person.jpg
+-
+  id: maria
+  name: "Maria"
+  surname: "Nyamukuru"
+  title: "PH.D. Student"
+  company: "Dartmouth College"
+  thumbnailUrl: maria_nyamukuru.jpeg
+  social:
+    - {name: "site", link: "https://www.ah-lab.cs.dartmouth.edu/our-team/maria-nyamukuru"}
+-
+  id: anani
+  name: "Anani"
+  surname: "Sawadogo"
+  title: "Software Engineer"
+  company: "FreshAir Sensor corporation"
+  thumbnailUrl: anani.jpeg
+  social:
+    - {name: "site", link: "https://www.linkedin.com/in/t-anani-sawadogo-693b0558/"}
+-
+  id: NVIDIA
+  name: "Manal"
+  surname: "Jalloul"
+  title: "NVIDIA Certified Instructor"
+  company: "NVIDIA"
+  thumbnailUrl: manalJallou.png 
+-
+  id: vukosi
+  name: "Vukosi"
+  surname: "Marivate"
+  title: "ABSA UP Chair of Data Science"
+  company: "University of Pretoria"
+  thumbnailUrl: vukosi_marivate.jpg 
+-
+  id: lorna
+  name: "Lorna"
+  surname: "Mugambi"
+  title: "Research intern"
+  company: "Center for Data Science and AI, Dedan Kimathi University of Technology"
+  thumbnailUrl: LornaMugambi.jpg
+-
+  id: gabriel
+  name: "Gabriel"
+  surname: "Kiarie"
+  title: "Research intern"
+  company: "Center for Data Science and AI, Dedan Kimathi University of Technology"
+  thumbnailUrl: GabrielKiarieNjoroge.jpg
+-
+  id: adaugo
+  name: "Adaugo"
+  surname: "Trinitas"
+  title: "TBD"
+  company: "WanaData, Data Academy, Code for Africa"
+  thumbnailUrl: adaugoTrinitasOnyebuchi.png 
+-
+  id: thenjiwe
+  name: "Thenjiwe"
+  surname: "Kubheka"
+  title: "TBD"
+  company: "TBD"
+  thumbnailUrl: thenjiweKubheka.png
+-
+  id: moekestsi
+  name: "Moekestsi"
+  surname: "Mosia"
+  title: "SPU team"
+  company: "Sol Plaatje University (SPU)"
+  thumbnailUrl: mosiaMoeketsi.png
+-
+  id: tejumade
+  name: "Tejumade"
+  surname: "Afonja"
+  title: "Co-founder"
+  company: "AI Saturdays (Lagos)"
+  thumbnailUrl: zKAUJb6T_400x400.jpg
+-
+  id: Facebook
+  name: "Luis"
+  surname: "Cabanzón Gutiérrez"
+  title: "Data Engineer"
+  company: "Facebook"
+  thumbnailUrl: luis.png 
+-
+  id: peter
+  name: "Peter"
+  surname: "Popoola"
+  title: "TBD"
+  company: "Sol Plaatje University (SPU)"
+  thumbnailUrl: peterPopoola.png
+-
+  id: wanaData
+  name: "Tricia"
+  surname: "Govindasamy"
+  title: "TBC"
+  company: "WanaData/Code4Africa"
+  thumbnailUrl: tricia.png
+-
+  id: nimy
+  name: "Nimy,"
+  surname: "Eli Bila"
+  title: "SPU team"
+  company: "Sol Plaatje University (SPU)"
+  thumbnailUrl: nimy.png 
+-
+  id: melvin
+  name: "Melvin"
+  surname: "Kisten"
+  title: "SPU team"
+  company: "Sol Plaatje University (SPU)"
+  thumbnailUrl: melvin.png 
+-
+  id: spu
+  name: "Prof Mary"
+  surname: "Jean Baxen"
+  title: "Deputy Vice Chancellor (DVC)"
+  company: "Sol Plaatje University (SPU)"
+  thumbnailUrl: profMary.png 
+-
+  id: nakasi
+  name: "Nakasi"
+  surname: "Rose"
+  title: "Research Assistant"
+  company: "Makerere AI Lab"
+  thumbnailUrl: rose.jpeg 
+-
+  id: afua
+  name: "Afua"
+  surname: "Bruce"
+  title: "Chief Program Officer"
+  company: "DataKind"
+  thumbnailUrl: AfuaBruce.png
+-
+  id: zindi
+  name: "Amy"
+  surname: "Bray"
+  title: "Competition Lead"
+  company: "Zindi"
+  thumbnailUrl: amyBray.jpeg
+-
+  id: celina
+  name: "Celina"
+  surname: "Lee"
+  title: "CEO and Co-founder"
+  company: "Zindi"
+  thumbnailUrl: celine.png
+-
+  id: chisenga
+  name: "Chisenga"
+  surname: "Muyoya"
+  title: "Co-founder"
+  company: "Asikana Network"
+  thumbnailUrl: chisenga.jpeg 
+-
+  id: martin
+  name: "Martin Gordon"
+  surname: "Mubangizi"
+  title: "Officer in Charge and Data Science Officer"
+  company: "UN Data Innovations Lab, Kampala"
+  thumbnailUrl: martin.png
+  social:
+    - {name: "twitter", link: "https://twitter.com/mmubangizi15"}
+  ribbon:
+    - {abbr: "DBA", title: "DSA Board Secretary", url: "https://datascienceafrica.org"}
+-
+  id: emmanuel
+  name: "Emmanuel"
+  surname: "Mupuya"
+  title: "Field Facilitator"
+  company: "Digital Opportunity Trust"
+  thumbnailUrl: person.jpg
+  social:
+    - {name: "site", link: "https://www.linkedin.com/in/emmanuel-mupuya-a2b03173/"}
+-
+  id: gedia
+  name: "Gedia"
+  surname: "team"
+  title: "TBC"
+  company: "Gedia"
+  thumbnailUrl: person.jpg 
+-
+  id: kathleen
+  name: "Kathleen"
+  surname: "Siminyu"
+  title: "TBD"
+  company: "Masakhane"
+  thumbnailUrl: person.jpg 
+-
+  id: raesetje
+  name: "Raesetje"
+  surname: "Sefala"
+  title: "TBD"
+  company: "TBD"
+  thumbnailUrl: person.jpg 
+-
+  id: mohamed
+  name: "Mohamed"
+  surname: "Ahmed"
+  title: "TBD"
+  company: "TBD"
+  thumbnailUrl: person.jpg
+-
+  id: tabaro
+  name: "Tabaro"
+  surname: "Kabanda"
+  title: "TBD"
+  company: "TBD"
+  thumbnailUrl: person.jpg
+-
+  id: vernon
+  name: "Vernon"
+  surname: "Kok"
+  title: "SPU team"
+  company: "Sol Plaatje University (SPU)"
+  thumbnailUrl: person.jpg
+-
+  id: collins
+  name: "Collins"
+  surname: "Udanor"
+  title: "Data Science Specialist"
+  company: "University of Nigeria Nsukka"
+  thumbnailUrl: person.jpg 
+-
+  id: rabson
+  name: "Rabson"
+  surname: "Sayenda"
+  title: "Chancellor College"
+  company: "University of Malawi"
+  thumbnailUrl: person.jpg 
+-
+  id: dummy
+  name: "TBD"
+  surname: ""
+  company: "TBD"
+  title: "TBD"
+  bio: ""
+  thumbnailUrl: person.jpg 

@@ -1,0 +1,347 @@
+# Instructions
+#
+# Schedule is organized in tracks (summer school, field work and workshop)
+# This represented by the tuple
+#  [session_id_ss, session_id_fw, ...]
+# Use:
+# - 404 --> to indicate skip/missing section in a track
+# - small-break --> coffee break
+# - large-break --> lunch break
+
+
+# Summer school on 4th October 2021---------------------------------------------------------------
+# ----------------------
+-
+  date: "2021-10-04"
+  dateReadable: "October 04, 2021"
+  tracks:
+    - {title: "Summer School", color: "#e21937"}
+    # - {title: "Field Work", color: "#000000"}
+  timeslots:
+    - {
+    	startTime: "08:00",
+    	endTime: "08:15",
+    	sessionIds: [welcome-remarks]
+    }
+    - {
+        startTime: "08:15",
+        endTime: "09:30",
+        sessionIds: [python_basics]
+    }
+    - {
+    	startTime: "09:30",
+    	endTime: "10:45",
+    	sessionIds: [ML_Fundamentals]
+    }
+    - {
+        startTime: "10:45",
+        endTime: "11:00",
+        sessionIds: [small-break]
+    }
+    - {
+    	startTime: "11:00",
+    	endTime: "12:30",
+    	sessionIds: [data_visualisation]
+    }
+    - {
+        startTime: "12:30",
+        endTime: "13:00",
+        sessionIds: [hackathon_01]
+    }
+    - {
+     	startTime: "13:00",
+     	endTime: "",
+     	sessionIds: [networking_04]
+     }
+# Summer school on 5th October 2021------------------------------------------------------------
+-
+  date: "2021-10-05"
+  dateReadable: "October 05, 2021"
+  tracks:
+    - {title: "Summer School", color: "#ebddba"}
+    # - {title: "Field Work", color: "#000000"}
+  timeslots:
+#    - {
+#    	startTime: "08:00",
+#    	endTime: "08:15",
+#    	sessionIds: [welcome-remarks_2]
+#    }
+    - {
+        startTime: "08:00",
+        endTime: "10:30",
+        sessionIds: [Embedded_ML]
+    }
+    - {
+    	startTime: "10:30",
+    	endTime: "10:45",
+    	sessionIds: [small-break]
+    }
+    - {
+        startTime: "10:45",
+        endTime: "12:15",
+        sessionIds: [fundamentals_IoT]
+    }
+    - {
+         startTime: "12:15",
+         endTime: "13:15",
+         sessionIds: [Live_instructor]
+     }
+    - {
+        startTime: "13:15",
+        endTime: "",
+        sessionIds: [networking_05]
+    }
+#    - {
+#        startTime: "16:00",
+#        endTime: "17:00",
+#        sessionIds: [deep_learning_intro_practicals]
+#    }
+-
+  date: "2021-10-06"
+  dateReadable: "October 06, 2021"
+  tracks:
+    - {title: "Summer School", color: "#f89828"}
+    # - {title: "Field Work", color: "#000000"}
+  timeslots:
+    - {
+        startTime: "08:00",
+        endTime: "09:30",
+        sessionIds: [big_data]
+    }
+    - {
+    	startTime: "09:30",
+    	endTime: "10:30",
+    	sessionIds: [social_media_analytics]
+    }
+    - {
+        startTime: "10:30",
+        endTime: "10:45",
+        sessionIds: [small-break]
+    }
+    - {
+    	startTime: "10:45",
+    	endTime: "11:45",
+    	sessionIds: [deep_learning_fundamentals, natural_language_processing]
+    }
+    - {
+        startTime: "11:45",
+        endTime: "12:45",
+        sessionIds: [machine_learning]
+    }
+    - {
+        startTime: "12:45",
+        endTime: "13:00",
+        sessionIds: [closing_remarks]
+    }
+    - {
+        startTime: "13:00",
+        endTime: "",
+        sessionIds: [networking_06]
+    }
+#-
+#  date: "2020-07-29"
+#  dateReadable: "July 29, 2020"
+#  tracks:
+#    - {title: "Summer School", color: "#002044"}
+#    # - {title: "Field Work", color: "#000000"}
+#  timeslots:
+#    - {
+#        startTime: "08:00",
+#        endTime: "09:00",
+#        sessionIds: [social_media_analysis]
+#    }
+#    - {
+#        startTime: "09:00",
+#        endTime: "11:00",
+#        sessionIds: [md4sg]
+#    }
+#    # - {
+#    #     startTime: "10:00",
+#    #     endTime: "11:00",
+#    #     sessionIds: [md4sg]
+#    # }
+#    - {
+#        startTime: "11:00",
+#        endTime: "12:00",
+#        sessionIds: [embeddings]
+#    }
+#    - {
+#        startTime: "12:00",
+#        endTime: "12:30",
+#        sessionIds: [small-break]
+#    }
+#    - {
+#        startTime: "12:30",
+#        endTime: "13:30",
+#        sessionIds: [embeddings_labs]
+#    }
+#    - {
+#        startTime: "13:30",
+#        endTime: "14:30",
+#        sessionIds: [r_talk]
+#    }
+#    - {
+#        startTime: "14:30",
+#        endTime: "15:30",
+#        sessionIds: [data_eng]
+#    }
+#    - {
+#        startTime: "16:00",
+#        endTime: "17:00",
+#        sessionIds: [ml_health_ethics]
+#    }
+#    - {
+#        startTime: "17:00",
+#        endTime: "17:15",
+#        sessionIds: [ss_conclusion]
+#    }
+#
+#    
+#
+## --------------------------------------------------
+## Workshop
+-
+  date: "2021-10-07"
+  dateReadable: "October 7, 2021 - Workshop Day I"
+  tracks:
+    - {title: "Workshop", color: "#e21937"}
+  timeslots:
+    - {
+        startTime: "08:00",
+        endTime: "08:10",
+        sessionIds: [welcome_and_opening]
+    }
+    - {
+        startTime: "08:10",
+        endTime: "08:20",
+        sessionIds: [history_DSA]
+    }
+    - {
+        startTime: "08:20",
+        endTime: "08:30",
+        sessionIds: [sponsor]
+    }
+    - {
+        startTime: "08:30",
+        endTime: "09:00",
+        sessionIds: [lacuna_fund]
+    }
+    - {
+        startTime: "09:00",
+        endTime: "09:25",
+        sessionIds: [ussd_combat_covid]
+    }
+    - {
+        startTime: "09:25",
+        endTime: "09:50",
+        sessionIds: [screen_echocardiograms]
+    }
+    - {
+        startTime: "09:50",
+        endTime: "10:30",
+        sessionIds: [PP1]
+    }
+    - {
+    	startTime: "10:30",
+    	endTime: "10:50",
+    	sessionIds: [small-break]
+    }
+    - {
+        startTime: "10:50",
+        endTime: "11:15",
+        sessionIds: [WanaData_project]
+    }
+    - {
+    	startTime: "11:15",
+    	endTime: "11:40",
+    	sessionIds: [create_groundtruth_datasets]
+    }
+    - {
+        startTime: "11:40",
+        endTime: "12:05",
+        sessionIds: [spaceborne_thermography]
+    }
+    - {
+        startTime: "12:05",
+        endTime: "12:30",
+        sessionIds: [citizen_science]
+    }
+    - {
+        startTime: "12:30",
+        endTime: "13:00",
+        sessionIds: [AI_ethics_ubuntu]
+    }
+    - {
+        startTime: "13:00",
+        endTime: "14:00",
+        sessionIds: [networking_07]
+    }
+    
+-
+  date: "2021-10-08"
+  dateReadable: "October 8, 2021 - Workshop Day II"
+  tracks:
+    - {title: "Workshop", color: "#f89828"}
+  timeslots:
+    - {
+        startTime: "08:00",
+        endTime: "08:25",
+        sessionIds: [missing_data]
+    }
+    - {
+        startTime: "08:25",
+        endTime: "08:50",
+        sessionIds: [recommendation_systems]
+    }
+    - {
+        startTime: "08:50",
+        endTime: "09:15",
+        sessionIds: [cloud-based]
+    }
+    - {
+        startTime: "09:15",
+        endTime: "09:40",
+        sessionIds: [potholes]
+    }
+    - {
+        startTime: "09:40",
+        endTime: "10:10",
+        sessionIds: [masakhane]
+    }
+    - {
+        startTime: "10:10",
+        endTime: "10:50",
+        sessionIds: [small-break]
+    }
+    - {
+        startTime: "10:50",
+        endTime: "11:15",
+        sessionIds: [SautiLearn]
+    }
+    - {
+        startTime: "11:15",
+        endTime: "11:40",
+        sessionIds: [data_sharing]
+    }
+    - {
+        # Panel
+        startTime: "11:40",
+        endTime: "12:40",
+        sessionIds: [women_in_IT_and_data_science]
+    }
+    - {
+        startTime: "12:40",
+        endTime: "13:05",
+        sessionIds: [art_of_the_possible]
+    }
+    - {
+        startTime: "13:05",
+        endTime: "13:25",
+        sessionIds: [hackathon_winners] #sabelo_keynote
+    }
+    - {
+        # day wrap up
+        startTime: "13:25",
+        endTime: "",
+        sessionIds: [closing_remarks_02]
+    }

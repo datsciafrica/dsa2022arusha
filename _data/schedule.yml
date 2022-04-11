@@ -1,0 +1,149 @@
+# Instructions
+#
+# Schedule is organized in tracks (summer school, field work and workshop)
+# This represented by the tuple
+#  [session_id_ss, session_id_fw, ...]
+# Use:
+# - 404 --> to indicate skip/missing section in a track
+# - 307 --> coffee break
+# - 503 --> lunch break
+
+
+# Summer school and field work.
+# ----------------------
+-
+  date: "2021-10-04"
+  dateReadable: "October 04, 2020"
+  tracks:
+    - {title: "Summer School", color: "#cd594a"}
+    - {title: "Field Work", color: "#000000"}
+  timeslots:
+    - {
+    	startTime: "08:00",
+    	endTime: "08:45",
+    	sessionIds: [002, 404]
+    }
+    - {
+        startTime: "08:45",
+        endTime: "09:30",
+        sessionIds: [003, 404]
+    }
+    - {
+    	startTime: "09:30",
+    	endTime: "09:45",
+    	sessionIds: [307]
+    }
+    - {
+    	startTime: "09:45",
+    	endTime: "10:30",
+    	sessionIds: [002, 404]
+    }
+    - {
+        startTime: "10:30",
+        endTime: "12:15",
+        sessionIds: [404, 004]
+    }
+    - {
+    	startTime: "12:15",
+    	endTime: "13:30",
+    	sessionIds: [503]
+    }
+-
+  date: "2020-06-23"
+  dateReadable: "June 23, 2020"
+  tracks:
+    - {title: "Summer School", color: "#002044"}
+    - {title: "Field Work", color: "#000000"}
+  timeslots:
+    - {
+    	startTime: "10:00",
+    	endTime: "10:45",
+    	sessionIds: [004, 404]
+    }
+    - {
+        startTime: "11:00",
+        endTime: "11:45",
+        sessionIds: [005, 404]
+    }
+    - {
+    	startTime: "12:00",
+    	endTime: "11:45",
+    	sessionIds: [307]
+    }
+-
+  date: "2020-06-24"
+  dateReadable: "June 24, 2020"
+  tracks:
+    - {title: "Summer School", color: "#002044"}
+    - {title: "Field Work", color: "#000000"}
+  timeslots:
+    - {
+    	startTime: "10:00",
+    	endTime: "10:45",
+    	sessionIds: [002, 404]
+    }
+    - {
+        startTime: "11:00",
+        endTime: "11:45",
+        sessionIds: [003, 404]
+    }
+    - {
+    	startTime: "12:00",
+    	endTime: "11:45",
+    	sessionIds: [307]
+    }
+
+# --------------------------------------------------
+# Workshop
+-
+  date: "2020-06-25"
+  dateReadable: "June 25, 2020"
+  tracks:
+    - {title: "Workshop", color: "#E31C23"}
+  timeslots:
+    - {
+    	startTime: "10:00",
+    	endTime: "10:45",
+    	sessionIds: [002]
+    }
+    - {
+    	startTime: "11:00",
+    	endTime: "11:45",
+    	sessionIds: [002]
+    }
+    - {
+        startTime: "13:00",
+        endTime: "13:45",
+        sessionIds: [003]
+    }
+    - {
+    	startTime: "14:00",
+    	endTime: "15:00",
+    	sessionIds: [503]
+    }
+-
+  date: "2020-06-26"
+  dateReadable: "June 26, 2020"
+  tracks:
+    - {title: "Workshop", color: "#E31C23"}
+  timeslots:
+    - {
+    	startTime: "10:00",
+    	endTime: "10:45",
+    	sessionIds: [002]
+    }
+    - {
+    	startTime: "11:00",
+    	endTime: "11:45",
+    	sessionIds: [002]
+    }
+    - {
+        startTime: "13:00",
+        endTime: "13:45",
+        sessionIds: [003]
+    }
+    - {
+    	startTime: "14:00",
+    	endTime: "15:00",
+    	sessionIds: [503]
+    }

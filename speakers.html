@@ -1,0 +1,17 @@
+---
+layout: default
+title: Confirmed Speakers
+permalink: /speakers/
+image: image 2.jpg
+color: "#000000"
+modal: all
+---
+
+{% include top-section.html %}
+
+{% if site.showSessions %}
+    {% include speakers-list.html %}
+{% else %}
+    {% include speakers-list-2.html %}
+{% endif %}
+

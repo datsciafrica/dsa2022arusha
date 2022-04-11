@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Data Science Africa Arusha 2022</title>
+    <description>DSA Arusha 2022</description>
+    <link>http://localhost:4000/dsa2022arusha/</link>
+    <atom:link href="http://localhost:4000/dsa2022arusha/feed.xml" rel="self" type="application/rss+xml" />
+    
+      <item>
+        <title>Summer School</title>
+        <description>&lt;p&gt;In the tradition of previous Data Science Africa  events, a summer school on machine learning and data science will be held prior to the main workshop. This summer school will target graduate students, researchers and professionals working with huge amounts of data or unique datasets.&lt;/p&gt;
+
+&lt;p&gt;The DSA Kimberley Summer School hosted by Sol Plaatje University, Kimberley will be held virtually. The summer school will also involve end-to-end tutorial sessions from professionals walking the participants through introductory and advanced lectures in data science and machine learning as well as moderate to advanced practical and tutorial sessions where participants will get their hands wet wrangling and munging datasets and applying cutting edge machine learning techniques to derive inference from the data. To benefit from this course participants must have some background in programming particularly programming with Python and machine learning. The registration process will include submission of worked examples in Jupyter notebooks for a data science challenge. More about what will be taught can be found on the &lt;a href=&quot;#&quot;&gt;schedule page&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;The theme for the summer school is Women and Data in Africa. We want to improve the gender balance in Data Science in Africa, by empowering women and by encouraging men to consider their role as male allies. We strongly encourage the participation of women from across the continent.
+All summer school attendees also attend the workshop, but they are joined by additional speakers and attendees.&lt;/p&gt;
+
+&lt;p&gt;Summer School starts on the 4th to 6th of October 2021 and &lt;a href=&quot;https://forms.gle/YpEkqfSCPSzYQWvZ6&quot;&gt;registration is open&lt;/a&gt;&lt;/p&gt;
+
+&lt;!--For more info, contact us at [dsakampala2020@gmail.com](mailto:dsakampala2020@gmail.com)--&gt;
+</description>
+        <pubDate>Wed, 18 Aug 2021 12:00:00 +0300</pubDate>
+        <link>http://localhost:4000/dsa2022arusha/blog/summer-school</link>
+        <guid isPermaLink="true">http://localhost:4000/dsa2022arusha/blog/summer-school</guid>
+      </item>
+    
+      <item>
+        <title>Workshop</title>
+        <description>&lt;p&gt;Due to the COVID-19 pandemic this year’s DSA event will also be virtual, starting on the 4th of October, hosted by Sol Plaatje University located in Kimberley, Northern Cape South Africa. We believe that the DSA community of both past and new participants can still benefit greatly from the virtual event.&lt;/p&gt;
+
+&lt;p&gt;The DSA Kimberley event will consist of oral presentations of data science applications from academia and industry and interactive panel discussions.&lt;/p&gt;
+
+&lt;p&gt;The theme for the summer school is Women and Data in Africa. We want to improve the gender balance in Data Science in Africa, by empowering women and by encouraging men to consider their role as male allies. We strongly encourage the participation of women from across the continent..&lt;/p&gt;
+
+&lt;p&gt;We are also using this platform as a call for abstracts for the workshop. Abstracts should cover relevant topics including but not limited to:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Data Science for the Sustainable Development Goals&lt;/li&gt;
+  &lt;li&gt;Health care&lt;/li&gt;
+  &lt;li&gt;Agriculture&lt;/li&gt;
+  &lt;li&gt;Wildlife conservation&lt;/li&gt;
+  &lt;li&gt;Disaster response&lt;/li&gt;
+  &lt;li&gt;Geo-spatial modeling&lt;/li&gt;
+  &lt;li&gt;Telecommunications data modeling&lt;/li&gt;
+  &lt;li&gt;Economic monitoring&lt;/li&gt;
+  &lt;li&gt;New data science and machine learning methods&lt;/li&gt;
+  &lt;li&gt;COVID related applications&lt;/li&gt;
+  &lt;li&gt;Language modeling&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;The workshop is scheduled for 7th - 8th October 2021 &lt;a href=&quot;https://forms.gle/kZBsV5NgKoYpnYsB9&quot;&gt;registration is open&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Additional info will be added here&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;Any questions?
+Email organizers at &lt;a href=&quot;mailto:info@datascienceafrica.org&quot;&gt;info@datascienceafrica.org&lt;/a&gt;&lt;/p&gt;
+</description>
+        <pubDate>Wed, 18 Aug 2021 12:00:00 +0300</pubDate>
+        <link>http://localhost:4000/dsa2022arusha/blog/Workshop</link>
+        <guid isPermaLink="true">http://localhost:4000/dsa2022arusha/blog/Workshop</guid>
+      </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,85 @@
+# Organizers
+-
+  id: 0
+  name: "Mpofu"
+  surname: "Nontokozo"
+  title: "General Chair"
+  thumbnailUrl: placeholder_avatar.png
+  team: true
+  social:
+    - {name: "twitter", link: "https://twitter.com/"}
+    - {name: "site", link: "http://site.com/"}
+-
+  id: 2
+  name: "Nsoesie"
+  surname: "Elaine"
+  title: "Program Chair"
+  thumbnailUrl: Elaine-Nsoesie.png
+  team: true
+  social:
+    - {name: "twitter", link: "https://twitter.com/ensoesie"}
+    - {name: "site", link: "https://www.bu.edu/sph/profile/elaine-nsoesie/"}
+#-
+#  id: 3
+#  name: "Martin"
+#  surname: "Mubangizi"
+#  title: "Workshop Chair"
+#  thumbnailUrl: martin.png
+#  team: true
+#  social:
+#    - {name: "twitter", link: "https://twitter.com/mmubangizi15"}
+#    - {name: "site", link: "http://site.com/"}
+#-
+#  id: 4
+#  name: "Engineer"
+#  surname: "Bainomugisha"
+#  title: "Field Work Chair"
+#  thumbnailUrl: engineer.png
+#  team: true
+#  social:
+#    - {name: "twitter", link: "https://twitter.com/iBaino"}
+#    - {name: "site", link: "http://site.com/"}
+#
+-
+  id: 5
+  name: "Morine"
+  surname: "Amutorine"
+  title: "Co Program Chair"
+  thumbnailUrl: morine.jpg
+  team: true
+  social:
+    - {name: "twitter", link: "https://twitter.com/theamutorine"}
+    - {name: "site", link: "http://site.com/"}
+
+-
+  id: 6
+  name: "Ciira"
+  surname: "Maina"
+  title: "Sponsorships"
+  thumbnailUrl: ciira.jpg
+  team: true
+  social:
+    - {name: "twitter", link: "https://twitter.com/CwaMaina"}
+    - {name: "site", link: "http://ciirawamaina.com/"}
+-
+  id: 7
+  name: "Sebolai"
+  surname: "Hanna"
+  title: "Technical Support"
+  thumbnailUrl: SebolaiHanna.jpg
+  team: true
+  social:
+    - {name: "twitter", link: "https://twitter.com/"}
+    - {name: "site", link: "http://site.com/"}
+
+
+#-
+#  id: 6
+#  name: "Solomon"
+#  surname: "Nsumba"
+#  title: "Local Assistance"
+#  thumbnailUrl: solomon.jpg
+#  team: true
+#  social:
+#    - {name: "twitter", link: "https://twitter.com/snsumba"}
+#    - {name: "site", link: "http://site.com/"}

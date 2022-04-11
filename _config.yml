@@ -1,0 +1,224 @@
+# Plugins
+plugins:
+- jekyll-sitemap
+safe: false
+future: true
+
+# Build Settings
+markdown: kramdown
+permalink: pretty
+exclude: ['/automation/', 'README.md', 'original_readme.md', 'LICENSE.txt', 'CNAME']
+
+# Site Settings
+title: "Data Science Africa Arusha 2022"
+email: "info@datascienceafrica.org"
+description: "DSA Arusha 2022"
+baseurl: "/dsa2022arusha"
+url: "http://www.datascienceafrica.org"
+permalink: "/blog/:title"
+googleAnalyticsTrackingId: "UA-80484960-1"
+googleAnalyticsSiteUrl: "datascienceafrica.org"
+venuName: "Institute of Accountancy Arusha (IAA)"
+venuLogo: "cropped-New-Logo-192x192.jpg"
+sitetheme: "Theme: Data, Technology and Community"
+# TODO - setup site verification
+# siteVerification: "b9imDOrFawXaBXCC4r3uJDdswSYcalD-wWpMYhFq-no"
+
+# Organizer Info
+organizerName: "Data Science Africa"
+organizerAlternateName: "Data Science Africa"
+organizerDescription: "Data from a vast array of sources is becoming available in many African countries. Machine learning and analysis are being applied to solve real problems on the ground."
+organizerEmail: "info@datascienceafrica.org"
+organizerLogo: "/img/seo/dsa-logo.png"
+organizerLink: "http://datascienceafrica.org/"
+
+# Head
+metaKeywords: "event, data science, africa, dsa, programming, machine learning, developers"
+twitterAccount: "@dsa_org"
+
+# Documents
+c4pUrl: ""
+c4sponsorsUrl: "mailto:info@datascienceafrica.org?subject=Event%20Sponsorship%20for%20DSA%202022%20Arusha"
+
+
+# Navigation
+navigationLinks:
+ # - {permalink: "/", text: "Home"}
+# - {permalink: "/speakers/", text: "Speakers"}
+# - {permalink: "/schedule/", text: "Schedule"}
+# - {permalink: "/news/", text: "News"}
+ - {permalink: "/team/", text: "Team"}
+# - {permalink: "/gallery/", text: "Gallery"}
+ #- {permalink: "/logistics/", text: "Logistics"}
+ #- {permalink: "/hackathon/", text: "Virtual Field Work"}
+ - {link: "http://www.datascienceafrica.org#events", text: "Past Meetings"}
+ - {link: "http://www.datascienceafrica.org", text: "DSA Org"}
+# bottomNavigationLinks:
+#  - {link: "https://bit.ly/dfua-c4p", text: "Become a speaker"}
+# rightNavigationButtons:
+#  - {link: "https://bit.ly/dfua-c4p", text: "Become a speaker"}
+
+# Hero Block
+heroImage: "9.jpg"
+heroTitle: "DSA <typeout> 2022"
+eventDate: "18<sup>th</sup> - 22<sup>nd</sup> July, 2022"
+typeoutTextValues: '"Event", "Field Work", "Summer School", "Workshop"'
+typeoutFallback: "Event"
+heroButtons:
+ - {link: "#", text: "Become a speaker"}
+# - {permalink: "/#tickets", text: "Buy tickets"}
+#heroImage: "makerere-main.jpg"
+# Photo by Damian Patkowski on Unsplash
+#heroTitle: "Virtual Data Science Africa"
+# heroTitle: "Data Science Africa Kampala 2020<typeout>"
+#eventDate: "July 18 - July 22, 2020"
+startRegistration: "April 09, 2022"
+endRegistration: "July 28, 2022"
+#heroButtons:
+# - {permalink: "https://docs.google.com/forms/d/e/1FAIpQLSeAlxpo-H3-qPyUWVs6H9BuwaS7dJsLCLVpiwVpn3olfrXujg/viewform", text: "Register for Summer School"}
+# - {permalink: "https://docs.google.com/forms/d/e/1FAIpQLScp5G487hQHEfiobEMYOXkQmG90JCj5f4PuFVoVKz9lwwqmMg/viewform", text: "Register for Workshop"}
+prepLinks:
+ - {link: "https://jupyter.readthedocs.io/en/latest/", text: "Getting started with Jupyter notebooks"}
+ - {link: "https://scipy-lectures.org", text: "Introductory SciPy lectures"}
+# - {link: "https://pandas.pydata.org/pandas-docs/stable/getting_started/10min.html", text: "Pandas 101"}
+ - {link: "https://colab.research.google.com/notebooks/intro.ipynb", text: "Colab basics"}
+ - {link: "https://github.com/datsciafrica/presentations", text: "Previous DSA events material"}
+
+# About Block
+aboutTitle: "Highlights"
+aboutBlock:
+ - {title: "Embedded ML - Tiny ML", image: "Embedded ML-TinyML.png", text: "TinyML is a cutting-edge field that brings the transformative power of machine learning (ML) to the performance- and power-constrained domain of tiny devices and embedded systems. Successful deployment in this field requires intimate knowledge of applications, algorithms, hardware, and software." }
+ - {title: "Summer School", image: "conference.jpg", text: "In the tradition of previous Data Science Africa  events, a summer school on machine learning and data science will be held prior to the main workshop. This summer school will target graduate students, researchers and professionals working with huge amounts of data or unique datasets.
+" }
+ - {title: "Workshop", image: "workshop.jpg", text: "The workshop will be organized around paper presentations and interactive panel discussions. The theme for the workshop is Women and Data in Africa. We want to highlight the work of women data scientists and increase representation of women in Data Science in Africa. We strongly encourage the participation of women from across the continent." }
+
+# Statistic Block
+statisticBlockImage: "IAA-view-ed.jpg"
+statisticBlock:
+ - {count: "30", specialCharacter: "+", info: "African countries", detail: "participation"}
+ - {count: "50", specialCharacter: "+", info: "topics", detail: "covered"}
+ - {count: "20", specialCharacter: "+", info: "speakers", detail: "from all over the world"}
+
+# Latest News Block
+latestNewsTitle: "Latest news"
+
+# Location Block
+locationBlockTitle: "Location"
+eventLocationName: "Conference Hall"
+eventLocationLink: ""
+eventStreetAddress: "AoE"
+eventAddressLocality: "Arusha"
+eventAddressLocalityRegion: "Arusha"
+eventPostalCode: "00000"
+eventAddressCountry: "South Africa"
+eventStartTime: "2020-06-22T08:00"
+eventDoorTime: "08:30"
+eventEndTime: "2020-06-26T17:00"
+eventPlaceCoordinates: "0.3476, 32.5825"
+mapCenterCoordinates: "0.3476, 32.5825"
+mapMobileCenterCoordinates: "0.3476, 32.5825"
+
+# Partners Block
+partnersTitle: "Sponsors"
+partnersC4sponsorsButton: "BECOME A SPONSOR"
+
+# Subscribe Block
+subscribeImage: "subscribe.jpg"
+subscribeTitle: "Subscribe for updates"
+subscribeAction: ""
+subscribeInfo: "Registration will be open soon. Stay tuned!"
+#Gallery
+gallerylinks:
+ - {imagename: "1.jpg", thumbnail: "1.jpg",  datasubhtml: "Galeshewe Guided Township Tour", datasubparagraph: "Learn more about the oldest township in the country, visit local artists and enjoy a taste of the local cuisine."}
+ - {imagename: "2.jpg", thumbnail: "2.jpg", datasubhtml: "", datasubparagraph: ""}
+ - {imagename: "3.jpg", thumbnail: "3.jpg", datasubhtml: "", datasubparagraph: ""}
+ - {imagename: "4.jpg", thumbnail: "4.jpg", datasubhtml: "The Big Hole & Kimberley Mine Museum", datasubparagraph: "The largest hand-dug excavation in the world. The spectacular site and the mining museum and town bring the magnificent era of Diamond Discovery in Kimberley back to life."}
+ - {imagename: "5.jpg", thumbnail: "5.jpg", datasubhtml: "Take the Tram", datasubparagraph: "This vintage tram – introduced in 1887 – was refurbished to enhance the tourist experience of historical Kimberley, Book a ride at the Big Hole."}
+ - {imagename: "6.jpg", thumbnail: "6.jpg", datasubhtml: "Big Hole Complex Kimberley", datasubparagraph: ""}
+ - {imagename: "7.jpg", thumbnail: "7.jpg", datasubhtml: "Cricket", datasubparagraph: ""}
+ - {imagename: "8.jpg", thumbnail: "8.jpg", datasubhtml: "Diamond", datasubparagraph: ""}
+ - {imagename: "9.jpg", thumbnail: "9.jpg", datasubhtml: "Edge of Kimberley Mine, 1872, shows 15 road ways that bisected the diggings", datasubparagraph: ""}
+ - {imagename: "10.jpg", thumbnail: "10.jpg", datasubhtml: "Fishing at Modderrivier", datasubparagraph: ""}
+ - {imagename: "11.jpg", thumbnail: "11.jpg", datasubhtml: "Fly Fishing", datasubparagraph: ""}
+ - {imagename: "12.jpg", thumbnail: "12.jpg", datasubhtml: "Galeshewe Uprising Monument", datasubparagraph: ""}
+ - {imagename: "13.jpg", thumbnail: "13.jpg", datasubhtml: "arusha", datasubparagraph: ""}
+ - {imagename: "14.jpg", thumbnail: "14.jpg", datasubhtml: "arusha", datasubparagraph: "After Cecil John Rhodes' death in 1902 the residents of Kimberley elected to erect a memorial in his honour. Unveiled in 1907, this 72-ton bronze statue is reputed to be one of the finest equestrian statues in the world. Situated a stone's throw from St Cyprian's Cathedral (on a road island bordered by Du Toitspan Road, Regiment Way and d'Arcy Street) this bronze work by Hamo Thornycroft depicts Rhodes mounted on his horse with a map of Africa in his hands. Facing to the north, it is symbolic of Rhodes’ imperialist vision of extending the British Empire deep into the African hinterland. Rhodes is depicted in the clothes he wore at the memorable indaba with the Matabele indunas (leaders) in the Matopos in the 1880s."}
+ - {imagename: "15.jpg", thumbnail: "15.jpg", datasubhtml: "McGregor Museum", datasubparagraph: " A national monument, built in 1896 at Rhodesinstigation as a hotel and health resort. The museum displays natural history, the siege of Kimberley, a Hall of Religions and the acclaimed Ancestors Gallery depicting three million years of human history in the Northern Cape.
+"}
+ - {imagename: "16.jpg", thumbnail: "16.jpg", datasubhtml: "Magersfontein Battlefields Memorial Museum", datasubparagraph: "(35km) During the second South African War, Kimberley was besieged by the Boers for four months. Boer forces surrounding Kimberley showed how a determined, small and under resourced force could keep the British army at bay for months. Take a tour of the Magersfontein battlefields with an experience guide and historian and visit the graves, the Burgher Monument, the Magersfontein Hills and the Boer Trenches.
+"}
+ - {imagename: "17.jpg", thumbnail: "17.jpg", datasubhtml: "Mattanu Private Game Reserve", datasubparagraph: "Is less than an hour from Kimberley, and offers an excellent, personalized wildlife experience. Game drives, spa treatments, starlit dinners in the middle of the bush and even helicopter safaris - fly fishing to the mighty Orange and Vaal rivers, game viewing or the unique wildlife experience safari – you will join the wildlife monitoring and capture  specialist during their daily routines for a behind the scenes experience - all are excellent value-for-money reasons to visit."}
+ - {imagename: "18.jpg",thumbnail: "18.jpg", datasubhtml: "Mokala National Park", datasubparagraph: "86km outside Kimberley on the N12 to Cape Town, Mokala National Park is home to a variety of game, including the Giraffe, Black Wildebeest and Roan Antelope."}
+ - {imagename: "19.jpg", thumbnail: "19.jpg", datasubhtml: "Mokala National Park", datasubparagraph: "86km outside Kimberley on the N12 to Cape Town, Mokala National Park is home to a variety of game, including the Giraffe, Black Wildebeest and Roan Antelope."}
+ - {imagename: "20.jpg", thumbnail: "20.jpg",  datasubhtml: "MSICC", datasubparagraph: "One of the newest convention centres in South Africa. This conference venue can accommodate up to 2500 delegates. It has an outdoor auditorium, on site chef and dedicated staff. The Mittah Seperepere Convention Centre is capable of hosting big meetings of any level of importance, including international conference. To top it all this conference venue is situated directly opposite the world renowned Kimberley Big Hole and 4 star accommodation. The facility was designed to be multifunctional and can provide a large flat floor area suitable for events such as: ballroom dancing, boxing, martial arts and gymnastics. It is also an ideal venue for religious gatherings, mass performances and graduation ceremonies. The convention center was named after Mittah Seperepere, who was a significant political leader in the province. Mme Mittah was also the provincial chairwoman of the ANC Women’s League."}
+ - {imagename: "21.jpg", thumbnail: "21.jpg", datasubhtml: "Rock Painting", datasubparagraph: ""}
+ - {imagename: "22.jpg", thumbnail: "22.jpg", datasubhtml: "Sol Plaatje Museum", datasubparagraph: "Discover the history of Kimberley through the eye of a Tswana, Griqua or San person, all three indigenous to the region. A mixture of first and third world, the tour takes you through historic Kimberley in the footsteps of one of the greatest Africans of last century, Solomon Thekiso Plaatje, and where better to start than at his own house, now the Sol Plaatje Museum. Plaatje, famous for his literary efforts as an author and newspaper man, was also the first Secretary-General of the ANC."}
+ - {imagename: "23.jpg", thumbnail: "23.jpg", datasubhtml: "Honoured Dead Memorial", datasubparagraph: "Designed by Sir Herbert Baker and built at CJ Rhodes’ behest to honour those who died defending Kimberley during The Siege. 'Long Cecil', is mounted on the stylobate surrounded by shells from the Boer ‘Long Tom’."}
+ - {imagename: "25.jpg", thumbnail: "25.jpg", datasubhtml: "Belgravia, Kimberley", datasubparagraph: "10 Lodge Road, Belgravia, Kimberley, or Lillianvale as it was first known, was designed by DW Greatbach for Gustav Bonas, a diamond buyer, in 1897.  In 1902 John Orr  bought Lillianvale, complete with its furniture and fittings, for the sum of 6,400 pounds, and gave it the present name of Dunluce (named after the ruins of a medieval castle in Northern Ireland.)"}
+# Footer
+socialLinks:
+ - {link: "https://twitter.com/intent/user?screen_name=dsa_org", icon: "twitter"}
+ - {link: "https://facebook.com/DataScienceAfrica", icon: "facebook"}
+ - {permalink: "/feed.xml", icon: "rss"}
+footerBlocks:
+ -
+  title: "Links"
+  links:
+   - {link: "http://www.datascienceafrica.org", text: "DSA Organization"}
+ -
+  title: "Contacts"
+  links:
+#   - {link: "mailto:dsakampala2020@gmail.com", text: "dsakampala2020@gmail.com"}
+   - {link: "mailto:info@datascienceafrica.org", text: "info@datascienceafrica.org"}
+ -
+  title: "FAQ"
+  links:
+   - {permalink: "/cod/", text: "Code of Conduct"}
+
+# Blog
+blogTitle: "Updates"
+blogCommentsEnabled: false
+discusShortName: "dsadiscuss"
+
+# Speakers List Block
+showSessions: true
+
+# Team Block
+teamBlockTitle: "About us"
+aboutUs: "The last few years have witnessed an explosion in the quantity and variety of data available in Africa, produced either as a by-product of digital services, from sensors or measuring devices, satellites and from many other sources. A number of practical fields have been transformed by the ability to collect large volumes of data: for example, bioinformatics with the development of high throughput sequencing technology capable of measuring gene expression in cells, or agriculture with the widespread availability of high quality remote sensing data. For other data sources – such as mobile phone usage records from telecoms operators, which can be used to measure population movement and economic activity – we are just beginning to understand the practical possibilities."
+
+
+# Logistics Direction Details Block
+directionDetailsImage: "direction-details.jpg"
+directionDetailsCards:
+ - {title: "Conference Technology", information: 'Zoom details will be shared with registered participants directly.'}
+ - {title: "Q & A", information: 'TBD'}
+ - {title: "Chat and Collaboration", information: 'TBD'}
+directionDetailsWideCards:
+ -
+  title: "Other Details"
+  subCards:
+   -
+    title: "Registration"
+    links:
+     - {permalink: "/tbd", text: "Summer school"}
+     - {permalink: "/tbd", text: "Workshop abstract submission"}
+   -
+    title: "Materials"
+    links:
+     - {link: "https://github.com/datsciafrica/presentations", text: "Summer school lectures"}
+     - {link: "https://github.com/datsciafrica/presentations", text: "Datasets"}
+     - {link: "https://www.youtube.com/channel/UCkB0DCJZjJX6fdEZspidC9w/feed", text: "Past video materials"}
+     - {link: "http://www.datascienceafrica.org/covid19/", text: "COVID related information"}
+
+# Hackathon
+hackathonTitle: "Field Work"
+enableHackathon: true
+
+# Hackathon About Block
+aboutHackathonTitle: "Field Work Projects"
+hackathonRows:
+ - {title: "Crop disease monitoring", image: "cropMonitoringFields.png", details: "The objective of this field work is to provide participants with hands-on experience in crop diseae monotoring using mobile phone and spectrometry. This will be based on a research project aimed at developing experimental tools and techniques needed for the surveillance and detection of serious viral crop diseases, which affect Uganda and the East African region. The following core areas have been investigated on and will be demonstrated during the field study. These include <ol type='circle'><li>mobile data collection in the field</li><li> diagnosis of crop disease in the field based on crop images </li><li> mobile phone applications for auto pest and disease count</li><li>Spectrometry of early disease dectection</li></ol>"} 
+ - {title: "Air pollution monitoring", image: "AirQoFieldwork.png", details: "The objective of this field work is to provide participants with hands-on experience on building an air quality IoT device. The session will start with an introduction to air pollution, its effects, different types of pollutants and air quality sensing technologies. Participants will be able to prototype and deploy an IoT device that is capable of collecting air quality data and transmitting it in real-time to a cloud-based platform for analysis."}
+
+

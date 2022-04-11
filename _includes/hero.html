@@ -1,0 +1,53 @@
+<!-- Begin Hero Section -->
+<section id="top-section-hero" class="top-section-hero top-section image-section" style="background-image: linear-gradient(rgba(0, 0, 0, 0.527),rgba(0, 0, 0, 0.5)) , url('{{ site.baseurl }}/img/sections-background/{{ site.heroImage }}'); background-color: #000000;">
+    {% include navigation.html %}
+    <div class="content-wrapper">
+    <div class="jumbotron pull-right" style="background-color: rgba(0,0,0, 0.5); width: 60%;text-align: center;transform: translate(-15%); padding: 10px 10px 10px 20px; margin-top: -150px;">
+        <div class="animated hiding" data-animation="fadeInDown" data-delay="500">
+            {% assign heroText = site.heroTitle | split:"<typeout>" %}
+            <h1>{{ heroText[0] }}<span id="typeout-text" class="hidden-xs"></span><span class="typeout-fallback">{{ site.typeoutFallback }}</span>{{ heroText[1] }}</h1>
+            <p>{{ site.eventDate }}</p>
+            <p>{{ site.sitetheme }}</p>
+            
+            {% for button in site.heroButtons %}
+            <a href="{% if button.permalink != null %} {{ button.permalink}} {% else %} {{ button.link }} {% endif %}" class="btn btn-primary" {% if button.link != null %}{% endif %} target="_blank">{{ button.text }}</a>
+            {% endfor %}
+            </div>
+        <!-- <br> -->
+        <!-- <div style='margin-top: 10px'><p style="font-size:18px font-weight:normal;"> Registration opens on {{site.startRegistration}} &amp; close on {{site.endRegistration}} </p>
+        </div> -->
+
+        <div>
+            <br>
+            <ul class="social-links">
+				{% for social in site.socialLinks %}
+				<li>
+					<a href="{% if social.permalink != null %} {{ social.permalink | prepend: site.baseurl }} {% else %} {{ social.link }} {% endif %}" target="_blank">
+						<svg class="icon icon-{{ social.icon }}" viewBox="0 0 30 32">
+							<use xlink:href="{{ site.baseurl }}/img/sprites/sprites.svg#icon-{{ social.icon }}"></use>
+						</svg>
+					</a>
+				</li>
+				{% endfor %}
+			</ul>
+        </div>
+<!--
+        <div>
+            <center>
+            <img src="{{ site.baseurl }}/img/partners/{{site.venuLogo}}" title="{{ site.venuName }}" alt="{{ site.venuName }}" width="149px">
+            </center>
+        </div>
+-->
+        
+        
+    </div>
+    <div>
+    <a href="#about" class="explore">
+        <svg class="icon icon-arrow-down" viewBox="0 0 32 32">
+            <use xlink:href="{{ site.baseurl }}/img/sprites/sprites.svg#icon-arrow-down"></use>
+        </svg>
+    </a>
+	    </div>
+    </div>
+</section>
+<!-- End Hero Section -->

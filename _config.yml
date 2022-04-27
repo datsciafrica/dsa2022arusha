@@ -46,7 +46,7 @@ navigationLinks:
  # - {permalink: "/", text: "Home"}
 # - {permalink: "/speakers/", text: "Speakers"}
 # - {permalink: "/schedule/", text: "Schedule"}
-# - {permalink: "/news/", text: "News"}
+ - {permalink: "/news/", text: "News"}
  - {permalink: "/team/", text: "Team"}
 # - {permalink: "/gallery/", text: "Gallery"}
  #- {permalink: "/logistics/", text: "Logistics"}
@@ -87,10 +87,10 @@ prepLinks:
 # About Block
 aboutTitle: "Highlights"
 aboutBlock:
- - {title: "Embedded ML - Tiny ML", image: "Embedded ML-TinyML.png", text: "TinyML is a cutting-edge field that brings the transformative power of machine learning (ML) to the performance- and power-constrained domain of tiny devices and embedded systems. Successful deployment in this field requires intimate knowledge of applications, algorithms, hardware, and software." }
- - {title: "Summer School", image: "conference.jpg", text: "In the tradition of previous Data Science Africa  events, a summer school on machine learning and data science will be held prior to the main workshop. This summer school will target graduate students, researchers and professionals working with huge amounts of data or unique datasets.
+ - {title: "Embedded ML - Tiny ML", image: "TinyML_2022.jpg", text: "TinyML is a cutting-edge field that brings the transformative power of machine learning (ML) to the performance- and power-constrained domain of tiny devices and embedded systems. Successful deployment in this field requires intimate knowledge of applications, algorithms, hardware, and software." }
+ - {title: "Summer School", image: "summer_school.jpg", text: "In the tradition of previous Data Science Africa  events, a summer school on machine learning and data science will be held prior to the main workshop. This summer school will target graduate students, researchers, and professionals working with huge amounts of data or unique datasets. The summer school will focus on introductory and advanced lectures in data science and machine learning as well as moderate to advanced practical and tutorial sessions where participants will get their hands wet wrangling and munging datasets and apply cutting edge machine learning techniques to derive inference from the data..
 " }
- - {title: "Workshop", image: "workshop.jpg", text: "The workshop will be organized around paper presentations and interactive panel discussions. The theme for the workshop is Women and Data in Africa. We want to highlight the work of women data scientists and increase representation of women in Data Science in Africa. We strongly encourage the participation of women from across the continent." }
+ - {title: "Workshop", image: "Workshop_2022.jpg", text: "The workshop will be organized around paper presentations and interactive panel discussions. The theme for the workshop is Data, Technology, and Community. We want to highlight the work of the community in Data Science in Africa. We strongly encourage the participation of researchers and data science communities from across the continent. We invite participants interested in presenting work at the workshop to submit a short abstract describing the application of data science methods to problems relevant to Africa." }
 
 # Statistic Block
 statisticBlockImage: "IAA-view-ed.jpg"

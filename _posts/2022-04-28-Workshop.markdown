@@ -1,0 +1,37 @@
+---
+image: Workshop_2022.jpg
+color: "#D33"
+layout: post
+title:  "Workshop"
+date:   2022-04-28 00:00:00
+isStaticPost: false
+---
+This year’s DSA event will be physical, starting on the 21<sup>st</sup> of July, 2022 hosted by the Institute of Accountancy Arusha located in Arusha City, Tanzania. We believe that the DSA community of both past and new participants can still benefit greatly from the event.
+
+The DSA Arusha event will consist of oral presentations of data science applications from academia and industry and interactive panel discussions.
+
+The theme for the summer school is Data, Technology and Community. We want to improve the community engagement in Data Science in Africa, by empowering communities and researchers to consider their role in responsible AI practices in Africa. We strongly encourage the participation of data science communities from across the continent.
+
+We are also using this platform as a call for abstracts for the workshop. Abstracts should cover relevant topics including but not limited to:
+
+
+* Data Science for the Sustainable Development Goals
+* Health care
+* Agriculture
+* Wildlife conservation
+* Disaster response
+* Geo-spatial modeling
+* Telecommunications data modeling
+* Economic monitoring
+* New data science and machine learning methods
+* COVID related applications
+* Language modeling
+
+
+The workshop is scheduled for 21<sup>st</sup> – 22<sup>nd</sup> July 2022 <b><a target="_blank" href="https://bit.ly/3vcFrVz">registration is open</a></b>
+
+
+__Additional info will be added here__
+
+Any questions?
+Email organizers at [info@datascienceafrica.org](mailto:info@datascienceafrica.org)

@@ -1,20 +1,20 @@
 # Organizers
 -
   id: 0
-  name: "Mpofu"
-  surname: "Nontokozo"
+  name: "Theophil"
+  surname: "Assey"
   title: "General Chair"
-  thumbnailUrl: placeholder_avatar.png
+  thumbnailUrl: TheophilAssey.jpg
   team: true
   social:
     - {name: "twitter", link: "https://twitter.com/"}
     - {name: "site", link: "http://site.com/"}
 -
   id: 2
-  name: "Nsoesie"
-  surname: "Elaine"
+  name: "Dina"
+  surname: "Machuve"
   title: "Program Chair"
-  thumbnailUrl: Elaine-Nsoesie.png
+  thumbnailUrl: DinaMachuve.png
   team: true
   social:
     - {name: "twitter", link: "https://twitter.com/ensoesie"}
@@ -42,10 +42,10 @@
 #
 -
   id: 5
-  name: "Morine"
-  surname: "Amutorine"
+  name: "Ernest"
+  surname: "Mwebaze"
   title: "Co Program Chair"
-  thumbnailUrl: morine.jpg
+  thumbnailUrl: Ernest-Mwebaze.png
   team: true
   social:
     - {name: "twitter", link: "https://twitter.com/theamutorine"}
@@ -61,16 +61,16 @@
   social:
     - {name: "twitter", link: "https://twitter.com/CwaMaina"}
     - {name: "site", link: "http://ciirawamaina.com/"}
--
-  id: 7
-  name: "Sebolai"
-  surname: "Hanna"
-  title: "Technical Support"
-  thumbnailUrl: SebolaiHanna.jpg
-  team: true
-  social:
-    - {name: "twitter", link: "https://twitter.com/"}
-    - {name: "site", link: "http://site.com/"}
+#-
+#  id: 7
+#  name: "Sebolai"
+#  surname: "Hanna"
+#  title: "Technical Support"
+#  thumbnailUrl: SebolaiHanna.jpg
+#  team: true
+#  social:
+#    - {name: "twitter", link: "https://twitter.com/"}
+#    - {name: "site", link: "http://site.com/"}
 
 
 #-

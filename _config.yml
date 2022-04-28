@@ -65,7 +65,7 @@ eventDate: "18<sup>th</sup> - 22<sup>nd</sup> July, 2022"
 typeoutTextValues: '"Event", "Field Work", "Summer School", "Workshop"'
 typeoutFallback: "Event"
 heroButtons:
- - {link: "#", text: "Become a speaker"}
+ - {link: "#latest-news", text: " Register "}
 # - {permalink: "/#tickets", text: "Buy tickets"}
 #heroImage: "makerere-main.jpg"
 # Photo by Damian Patkowski on Unsplash

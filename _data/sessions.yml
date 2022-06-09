@@ -4,12 +4,13 @@
   title: " [[[ Break ]]] "
   place: "AoE"
   service: true
-  description: "The best time to talk with speakers and attendees through the chat app"
+  description: "The best time to talk with speakers and attendees"
 -
-  id: large-break
-  title: "Large Break"
-  place: "AoE"
+  id: lunch-break
+  title: " [[[ Lunch Break ]]] " 
+  place: "TBD"
   service: true
+  description: "Bon Appetit"
 
 # Talks, field work, Iot, Workshop sessions
 #-
@@ -50,13 +51,21 @@
 #   complexity: "Beginner"
 #   presentation: "https://speakerdeck.com/"
 #   video: "//www.youtube.com/embed/v3SCiUqI1yQ"
-# Summer School Schedule 4th October-------------------------------------------------------------------
+# Summer School Schedule 18th July-------------------------------------------------------------------Registration
+-
+  id: registration
+  title: "Registration"
+  description: "Introduction to the summer school"
+  subtype: presentation
+  speakers: []
+  language: en
+  complexity: "Beginner"
 -
   id: welcome-remarks
   title: "Welcoming Remarks"
   description: "Introduction to the summer school"
   subtype: presentation
-  speakers: [morine, mpofu]
+  speakers: [epaphra, msolla, assey]
   language: en
   complexity: "Beginner"
 -
@@ -64,62 +73,54 @@
   title: "Python Basics + Data Analytics in Python"
   description: "General introduction to Python Basics + Data Analytics in Python"
   subtype: presentation
-  speakers: [dina,neema]
+  speakers: [claire,neema]
   language: en
   complexity: "Beginner"
   presentation: "tbd"
 -
-  id: ML_Fundamentals
-  title: "ML Fundamentals and Computer Vision"
-  description: "ML Fundamentals and Computer Vision"
+  id: ML_systems_design
+  title: "ML Systems Design"
+  description: "ML Systems Design"
   subtype: presentation
-  speakers: [ernest]
+  speakers: [neil]
   language: en
   complexity: "Intermediate"
   presentation: "tbd"
 -
-  id: data_visualisation
-  title: "Data visualisation methods"
-  description: "introduction to Data visualisation methods"
+  id: ML_systems_design_practical
+  title: "Practical Session – ML Systems Design"
+  description: "Practical Session – ML Systems Design"
   subtype: presentation
-  speakers: [claire, hewitt, suvodeep]
+  speakers: [andrei, meissner]
   language: en
   complexity: "Intermediate"
   presentation: ""
 -
-  id: hackathon_01
-  title: "Hackathon"
-  description: "Hackathon"
+  id: data_visualization
+  title: "Data Visualization"
+  description: "Data Visualization"
   subtype: presentation
-  speakers: [zindi]
+  speakers: [elaine, morine]
   language: en
   complexity: "Intermediate"
   presentation: ""
 -
-  id: networking_04
-  title: "Breakout Sessions Networking and one on one’s with facilitators"
-  description: "Breakout Sessions Networking and one on one’s with facilitators"
+  id: data_visualization_practical
+  title: "Practical Session – Data Visualization"
+  description: "Practical Session – Data Visualization"
   subtype: presentation
-  speakers: [morine, mpofu, dina, neema, ernest, claire, hewitt, suvodeep, zindi]
+  speakers: [elaine, morine]
   language: en
   complexity: "Intermediate"
   presentation: ""
   
 # Summer School Day 2----------------------------------------------------------------------
 
--
-  id: Embedded_ML
-  title: "Embedded ML"
-  description: "Introduction to Embedded Machine Learning/ TinyML. Overview of the tools needed to develop a TinyML Application. Develop and Deploy a TinyML Application."
-  subtype: presentation
-  speakers: [maria, anani]
-  language: en
-  complexity: "Intermediate"
-  presentation: ""
+
 -
   id: fundamentals_IoT
-  title: "IoT Data Processing"
-  description: "IoT Data Processing"
+  title: "Fundamentals of IoT"
+  description: "Fundamentals of IoT"
   subtype: presentation
   speakers: [ciira, jason, lorna, gabriel]
   language: en
@@ -127,84 +128,101 @@
   presentation: "tbd"
 
 -
-  id: Live_instructor
-  title: "Live-instructor led workshop"
-  description: "Live-instructor led workshop"
-  subtype: presentation
-  speakers: [NVIDIA]
-  language: en
-  complexity: "Intermediate"
-  presentation: "tbd"
--
-  id: networking_05
-  title: "Breakout Sessions Networking and one on one’s with facilitators"
-  description: "Breakout Sessions Networking and one on one’s with facilitators"
-  subtype: presentation
-  speakers: [maria, anani, ciira, jason, lorna, gabriel, NVIDIA]
-  language: en
-  complexity: "Intermediate"
-  presentation: ""  
-#Summer School Day 3---------------------------------------------------------------------------
--
-  id: big_data
-  title: "Big Data: Data Engineering at scale"
-  description: "Big Data: Data Engineering at scale"
-  subtype: presentation
-  speakers: [Facebook]
-  language: en
-  complexity: "Beginner"
-  
--
-  id: social_media_analytics
-  title: "Social Media Analytics"
-  description: "TBD"
-  subtype: presentation
-  speakers: [morine, emmanuel]
-  language: en
-  complexity: "Intermediate"
-  presentation: "tbd"
-- 
   id: natural_language_processing
-  title: "Natural Language Processing + tutorial "
-  description: "TBD"
+  title: "Natural Language Processing"
+  description: "Natural Language Processing"
   subtype: presentation
-  speakers: [vukosi]
+  speakers: [melese, davis]
   language: en
   complexity: "Intermediate"
   presentation: "tbd"
-- 
+-
+  id: ML_research
+  title: "Selected Topic: ML Research"
+  description: "Selected Topic: ML Research"
+  subtype: presentation
+  speakers: [everson]
+  language: en
+  complexity: "Intermediate"
+  presentation: ""
+-
   id: deep_learning_fundamentals
   title: "Deep Learning Fundamentals"
-  description: "TBD"
+  description: "Deep Learning Fundamentals"
   subtype: presentation
-  speakers: [nakasi, benakera]
+  speakers: [ernest, joyce]
+  language: en
+  complexity: "Intermediate"
+  presentation: ""
+-
+  id: practical_deep_learning_fundamentals
+  title: "Practical Session – Deep Learning Fundamentals"
+  description: "Practical Session – Deep Learning Fundamentals"
+  subtype: presentation
+  speakers: [ernest, joyce]
+  language: en
+  complexity: "Intermediate"
+  presentation: ""
+#Summer School Day 3---------------------------------------------------------------------------
+-
+  id: enterprise_design
+  title: "Enterprise Design Thinking for AI"
+  description: "Enterprise Design Thinking for AI"
+  subtype: presentation
+  speakers: [thiga]
+  language: en
+  complexity: "Beginner"
+-
+  id: crime_dynamics_analytics
+  title: "Crime Dynamics and Crime Analytics"
+  description: "Crime Dynamics and Crime Analytics"
+  subtype: presentation
+  speakers: [marcos]
   language: en
   complexity: "Intermediate"
   presentation: "tbd"
 - 
-  id: machine_learning
-  title: "Machine Learning Systems, Streaming Data"
-  description: "TBD"
+  id: bayesian_machine_learning
+  title: "Bayesian Machine Learning"
+  description: "Bayesian Machine Learning"
   subtype: presentation
-  speakers: [neil,andrei]
+  speakers: [markus,humberto]
+  language: en
+  complexity: "Intermediate"
+  presentation: "tbd"
+- 
+  id: spatial_modeling
+  title: "Spatial Modeling"
+  description: "Spatial Modeling"
+  subtype: presentation
+  speakers: [martin]
+  language: en
+  complexity: "Intermediate"
+  presentation: "tbd"
+- 
+  id: practical_spatial_modeling
+  title: "Practical Session - Spatial Modeling"
+  description: "Practical Session - Spatial Modeling"
+  subtype: presentation
+  speakers: [martin]
+  language: en
+  complexity: "Intermediate"
+  presentation: "tbd"
+- 
+  id: data_engineering
+  title: "Data Engineering"
+  description: "Data Engineering"
+  subtype: presentation
+  speakers: [facebook]
   language: en
   complexity: "Intermediate"
   presentation: "tbd"
 - 
   id: closing_remarks
   title: "Conclusion and Closing Remarks for Summer School"
-  description: "TBD"
+  description: "Conclusion and Closing Remarks for Summer School"
   subtype: presentation
-  speakers: [elaine]
-  language: en
-  complexity: "Intermediate"
-  presentation: "tbd"
-- 
-  id: networking_06
-  title: "Breakout Sessions, Networking and one on one’s with facilitators"
-  description: "TBD"
-  subtype: presentation
-  speakers: [Facebook, morine, emmanuel, vukosi, nakasi, benakera, neil, andrei, elaine]
+  speakers: [thiga, marcos, markus, humberto, martin, facebook]
   language: en
   complexity: "Intermediate"
   presentation: "tbd"
@@ -214,7 +232,7 @@
   id: welcome_and_opening
   title: "Welcome and Opening Remarks"
   subtype: presentation
-  speakers: [spu]
+  speakers: [mwaitete]
   language: en
   complexity: "Beginner"
   presentation: "tbd"
@@ -230,63 +248,63 @@
   id: sponsor
   title: "Sponsor"
   subtype: presentation
-  speakers: [gedia]
+  speakers: [kabaza]
   language: en
   complexity: "Intermediate"
   presentation: "tbd"
 - 
-  id: lacuna_fund
-  title: "Lacuna Fund"
+  id: role_of_data_science
+  title: "Keynote:# The Role of Data Science Research in Digital and Precision Agriculture for Developing Countries"
   subtype: presentation
-  speakers: [dina, zindi, collins]
+  speakers: [kadeghe]
   language: en
   complexity: "Intermediate"
   presentation: "tbd"
 - 
-  id: ussd_combat_covid
-  title: "USSD Technology to Combat COVID-19 in Rural Areas in Malawi"
+  id: gender_differences
+  title: "Keynote:# Gender Differences in Urban Mobility"
   subtype: presentation
-  speakers: [rabson]
+  speakers: [menezes]
   language: en
   complexity: "Intermediate"
   presentation: "tbd"
 - 
-  id: screen_echocardiograms
-  title: "Using Machine Learning to Screen Echocardiograms for Rheumatic Heart Disease"
+  id: pope_prayer
+  title: "Is the Pope’s Prayer App Opening a Pandora’s Box?"
   subtype: presentation
-  speakers: [lorna]
+  speakers: [agaba]
   language: en
   complexity: "Intermediate"
   presentation: "tbd"
 - 
-  id: PP1
-  title: "PP1"
+  id: fruit_bat_movement
+  title: "Understanding Fruit Bat Movement Pattern: Leveraging on Radio Telemetry and Data Analytics"
   subtype: presentation
-  speakers: [dummy]
+  speakers: [adebayo]
   language: en
   complexity: "Intermediate"
   presentation: "tbd"
 - 
-  id: WanaData_project
-  title: "WanaData Project"
+  id: track_misinformation_perceptions
+  title: "Text Mining of Social Media Luganda Data to Track Misinformation and Perceptions Related to COVID-19 Transmission Mitigation Strategies"
   subtype: presentation
-  speakers: [adaugo]
+  speakers: [joyce]
   language: en
   complexity: "Intermediate"
   presentation: "tbd"
 - 
-  id: create_groundtruth_datasets
-  title: "How else can we think about creating ground truth datasets to answer research questions?"
+  id: internet_infrastructure
+  title: "Keynote:# Internet Infrastructure in Africa to Support Machine Learning"
   subtype: presentation
-  speakers: [raesetje]
+  speakers: [maina]
   language: en
   complexity: "Intermediate"
   presentation: ""
 - 
-  id: spaceborne_thermography
-  title: "Applications on Spaceborne Thermography"
+  id: snapshot_talks
+  title: "Snapshot Talks [Junior & Early Researchers(9 talks@10min)]"
   subtype: presentation
-  speakers: [mohamed, tabaro]
+  speakers: []
   language: en
   complexity: "Intermediate"
   presentation: ""
@@ -318,90 +336,50 @@
 #--------------------------------------------------------------------------------------------------
 #Work Shop Day 2---------------------------------------------------------------------------
 -
-  id: missing_data
-  title: "Techniques for proper missing data treatment"
+  id: nssf
+  title: "Keynote:# TBD"
   subtype: presentation
-  speakers: [peter]
+  speakers: [nssf]
   language: en
   complexity: "Intermediate"
   presentation: "tbd"
 - 
-  id: recommendation_systems
-  title: "How AWS uses Big Data for Recommendation Systems"
+  id: christian_humberto
+  title: "TBD"
   subtype: presentation
-  speakers: [thenjiwe]
+  speakers: [humberto]
   language: en
   complexity: "Intermediate"
   presentation: "tbd"
 - 
-  id: cloud-based
-  title: "Building Cloud-Based Serverless Data Platform for Learning Analytics"
+  id: markus_kaiser
+  title: "TBD"
   subtype: presentation
-  speakers: [moekestsi, nimy, melvin]
+  speakers: [markus]
   language: en
   complexity: "Intermediate"
   presentation: "tbd"
 - 
-  id: potholes
-  title: "Severity Estimation of Potholes in Imagery using Convolutional Neural Networks"
+  id: AI4D_lab
+  title: "AI4D Lab"
   subtype: presentation
-  speakers: [vernon]
+  speakers: [nyamawe]
   language: en
   complexity: "Intermediate"
   presentation: "tbd"
 - 
-  id: masakhane
-  title: "Keynote#"
+  id: datasets_lacuna
+  title: "Panel on Datasets for Africa- experiences from Lacuna Fund, with Q&A afterward"
   subtype: presentation
-  speakers: [kathleen]
-  language: en
-  complexity: "Advanced"
-  presentation: "tbd"
-- 
-  id: SautiLearn
-  title: "SautiLearn: Improving Online Learning Experience with Accent Translation"
-  subtype: presentation
-  speakers: [tejumade]
+  speakers: [dsa, masakhane]
   language: en
   complexity: "Intermediate"
   presentation: "tbd"
 - 
-  id: data_sharing
-  title: "Increasing Data Sharing in Africa"
+  id: closing
+  title: "Closing"
   subtype: presentation
-  speakers: [morine]
-  language: en
-  complexity: "Intermediate"
-  presentation: "tbd"
-- 
-  id: women_in_IT_and_data_science
-  title: "Challenges and Opportunities for Women in IT and Data Science with Q&A"
-  subtype: presentation
-  speakers: [wanaData, chisenga, celina, martin]
-  language: en
-  complexity: "Intermediate"
-  presentation: "tbd"
-- 
-  id: art_of_the_possible
-  title: "The Art of the Possible."
-  subtype: presentation
-  speakers: [afua]
-  language: en
-  complexity: "Intermediate"
-  presentation: "tbd"
-- 
-  id: hackathon_winners
-  title: "Hackathon winners announcement"
-  subtype: presentation
-  speakers: [zindi]
-  language: en
-  complexity: "Intermediate"
-  presentation: "tbd"
-- 
-  id: closing_remarks_02
-  title: "Closing Remarks"
-  subtype: presentation
-  speakers: [dummy]
+  speakers: [pcgc]
   language: en
   complexity: "Intermediate"
   presentation: "tbd"
@@ -729,11 +707,11 @@
 #
 #
 #
-#-
-#  id: blank
-#  title: ""
-#  description: ""
-#  subtype: presentation
-#  speakers: []
+-
+  id: blank
+  title: "TBD"
+  description: ""
+  subtype: presentation
+  speakers: [gaba]
 
 

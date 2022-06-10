@@ -78,7 +78,7 @@
   date: "2022-07-19"
   dateReadable: "July 19, 2022"
   tracks:
-    - {title: "Summer School", color: "#ebddba"}
+    - {title: "Summer School", color: "#D33"}
     # - {title: "Field Work", color: "#000000"}
   timeslots:
 #    - {
@@ -135,7 +135,7 @@
   date: "2022-07-20"
   dateReadable: "July 20, 2022"
   tracks:
-    - {title: "Summer School", color: "#f89828"}
+    - {title: "Summer School", color: "#002044"}
     # - {title: "Field Work", color: "#000000"}
   timeslots:
     - {
@@ -254,7 +254,7 @@
   date: "2022-07-21"
   dateReadable: "July 21, 2022 - Workshop Day I"
   tracks:
-    - {title: "Workshop", color: "#e21937"}
+    - {title: "Workshop", color: "#D33"}
   timeslots:
     - {
         startTime: "09:00",
@@ -336,7 +336,7 @@
   date: "2022-07-22"
   dateReadable: "July 22, 2022 - Workshop Day II"
   tracks:
-    - {title: "Workshop", color: "#f89828"}
+    - {title: "Workshop", color: "#002044"}
   timeslots:
     - {
         startTime: "09:00",

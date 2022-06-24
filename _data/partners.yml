@@ -4,6 +4,7 @@
 #    - {name: "GeDIA", description: "GeDIA (Gender-Just Digital Innovation in Africa)", link: "https://gedia-network.org/", imageUrl: "GeDIA.png", width: "200px"}
     - {name: "arm", description: "arm", link: "https://www.arm.com", imageUrl: "arm-logo-blue-rgb.png", width: "200px"}
     - {name: "Habari Node", description: "Habari Node", link: "https://www.habari.co.tz/", imageUrl: "habari-node.png", width: "300px"}
+    - {name: "Lacuna Fund", description: "Lacuna Fund", link: "https://lacunafund.org/", imageUrl: "lacuna-fund.png", width: "300px"}
 #-
 #  group: "Silver Sponsors"
 #  elements:

@@ -402,16 +402,16 @@
   complexity: "Intermediate"
   presentation: "tbd"
 - 
-  id: policy_research
-  title: "Policy Research Opportunities at DSA"
+  id: mozilla_common_voice
+  title: "Mozilla Common Voice"
   subtype: presentation
   speakers: [ryakitimbo]
   language: en
   complexity: "Intermediate"
   presentation: "tbd"
 - 
-  id: mozilla_common_voice
-  title: "Mozilla Common Voice"
+  id: policy_research
+  title: "Policy Research Opportunities at DSA"
   subtype: presentation
   speakers: [morine]
   language: en

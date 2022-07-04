@@ -150,7 +150,7 @@
   title: "Deep Learning Fundamentals"
   description: "Deep Learning Fundamentals"
   subtype: presentation
-  speakers: [ernest, joyce]
+  speakers: [ernest, katumba]
   language: en
   complexity: "Intermediate"
   presentation: ""
@@ -159,7 +159,7 @@
   title: "Practical Session – Deep Learning Fundamentals"
   description: "Practical Session – Deep Learning Fundamentals"
   subtype: presentation
-  speakers: [ernest, joyce]
+  speakers: [ernest, katumba]
   language: en
   complexity: "Intermediate"
   presentation: ""
@@ -191,6 +191,24 @@
   complexity: "Intermediate"
   presentation: "tbd"
 - 
+  id: data_engineering
+  title: "Data Engineering "
+  description: "Data Engineering"
+  subtype: presentation
+  speakers: [damon, luis, patel]
+  language: en
+  complexity: "Intermediate"
+  presentation: "tbd"
+- 
+  id: practical_data_engineering
+  title: "Practical Session - Data Engineering "
+  description: "Practical Session - Data Engineering"
+  subtype: presentation
+  speakers: [damon, luis, patel]
+  language: en
+  complexity: "Intermediate"
+  presentation: "tbd"
+- 
   id: spatial_modeling
   title: "Spatial Modeling"
   description: "Spatial Modeling"
@@ -209,20 +227,11 @@
   complexity: "Intermediate"
   presentation: "tbd"
 - 
-  id: data_engineering
-  title: "Data Engineering"
-  description: "Data Engineering"
-  subtype: presentation
-  speakers: [facebook]
-  language: en
-  complexity: "Intermediate"
-  presentation: "tbd"
-- 
   id: closing_remarks
   title: "Conclusion and Closing Remarks for Summer School"
   description: "Conclusion and Closing Remarks for Summer School"
   subtype: presentation
-  speakers: [thiga, marcos, markus, humberto, martin, facebook]
+  speakers: [thiga, marcos, markus, humberto, martin, damon, luis, patel]
   language: en
   complexity: "Intermediate"
   presentation: "tbd"
@@ -260,6 +269,15 @@
   language: en
   complexity: "Intermediate"
   presentation: "tbd"
+-
+  id: topological_data_analysis
+  title: "Simplicial Complexes (Introducing Topological Data Analysis)"
+  description: "Simplicial Complexes (Introducing Topological Data Analysis)"
+  subtype: presentation
+  speakers: [gaba]
+  language: en
+  complexity: "Intermediate"
+  presentation: "tbd"
 - 
   id: gender_differences
   title: "Keynote:# Gender Differences in Urban Mobility"
@@ -277,18 +295,18 @@
   complexity: "Intermediate"
   presentation: "tbd"
 - 
-  id: fruit_bat_movement
-  title: "Understanding Fruit Bat Movement Pattern: Leveraging on Radio Telemetry and Data Analytics"
+  id: african_languages
+  title: "African Languages and Novel ways of Collecting Data"
   subtype: presentation
-  speakers: [adebayo]
+  speakers: [googleAI]
   language: en
   complexity: "Intermediate"
   presentation: "tbd"
 - 
-  id: track_misinformation_perceptions
-  title: "Text Mining of Social Media Luganda Data to Track Misinformation and Perceptions Related to COVID-19 Transmission Mitigation Strategies"
+  id: panel_on_datasets
+  title: "Panel on Datasets for Africa- experiences from Lacuna Fund, Government and DSA Research Award"
   subtype: presentation
-  speakers: [joyce]
+  speakers: [martin, wanzare, hadgu, shamsuddeen, owomugisha, sekitoleko]
   language: en
   complexity: "Intermediate"
   presentation: "tbd"
@@ -368,10 +386,34 @@
   complexity: "Intermediate"
   presentation: "tbd"
 - 
-  id: datasets_lacuna
-  title: "Panel on Datasets for Africa- experiences from Lacuna Fund, with Q&A afterward"
+  id: health_equity
+  title: "Keynote:# Health Equity"
   subtype: presentation
-  speakers: [dsa, masakhane]
+  speakers: [elaine]
+  language: en
+  complexity: "Intermediate"
+  presentation: "tbd"
+- 
+  id: AI_community_experience
+  title: "AI Community Experience"
+  subtype: presentation
+  speakers: [gareth]
+  language: en
+  complexity: "Intermediate"
+  presentation: "tbd"
+- 
+  id: policy_research
+  title: "Policy Research Opportunities at DSA"
+  subtype: presentation
+  speakers: [ryakitimbo]
+  language: en
+  complexity: "Intermediate"
+  presentation: "tbd"
+- 
+  id: mozilla_common_voice
+  title: "Mozilla Common Voice"
+  subtype: presentation
+  speakers: [morine]
   language: en
   complexity: "Intermediate"
   presentation: "tbd"

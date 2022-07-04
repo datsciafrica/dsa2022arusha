@@ -411,13 +411,13 @@
 #  title: "Research Intern"
 #  company: "Center for Data Science and AI, Dedan Kimathi University of Technology"
 #  thumbnailUrl: jared.jpg
-#-
-#  id: jason
-#  name: "Jason"
-#  surname: "Kabi"
-#  title: "Research Intern"
-#  company: "Center for Data Science and AI, Dedan Kimathi University of Technology"
-#  thumbnailUrl: JasonKabi.jpg
+-
+  id: jason
+  name: "Jason"
+  surname: "Kabi"
+  title: "Research Intern"
+  company: "Center for Data Science and AI, Dedan Kimathi University of Technology"
+  thumbnailUrl: JasonKabi.jpg
 #-
 #  id: shelmith
 #  name: "Shelmith"
@@ -507,20 +507,20 @@
 #  title: "ABSA UP Chair of Data Science"
 #  company: "University of Pretoria"
 #  thumbnailUrl: vukosi_marivate.jpg 
-#-
-#  id: lorna
-#  name: "Lorna"
-#  surname: "Mugambi"
-#  title: "Research intern"
-#  company: "Center for Data Science and AI, Dedan Kimathi University of Technology"
-#  thumbnailUrl: LornaMugambi.jpg
-#-
-#  id: gabriel
-#  name: "Gabriel"
-#  surname: "Kiarie"
-#  title: "Research intern"
-#  company: "Center for Data Science and AI, Dedan Kimathi University of Technology"
-#  thumbnailUrl: GabrielKiarieNjoroge.jpg
+-
+  id: lorna
+  name: "Lorna"
+  surname: "Mugambi"
+  title: "Research intern"
+  company: "Center for Data Science and AI, Dedan Kimathi University of Technology"
+  thumbnailUrl: LornaMugambi.jpg
+-
+  id: gabriel
+  name: "Gabriel"
+  surname: "Kiarie"
+  title: "Research intern"
+  company: "Center for Data Science and AI, Dedan Kimathi University of Technology"
+  thumbnailUrl: GabrielKiarieNjoroge.jpg
 #-
 #  id: adaugo
 #  name: "Adaugo"
@@ -549,13 +549,13 @@
 #  title: "Co-founder"
 #  company: "AI Saturdays (Lagos)"
 #  thumbnailUrl: zKAUJb6T_400x400.jpg
-#-
-#  id: Facebook
-#  name: "Luis"
-#  surname: "Cabanzón Gutiérrez"
-#  title: "Data Engineer"
-#  company: "Facebook"
-#  thumbnailUrl: luis.png 
+-
+  id: luis
+  name: "Luis"
+  surname: "Cabanzón Gutiérrez"
+  title: "Data Engineer"
+  company: "META, USA"
+  thumbnailUrl: luis.png 
 #-
 #  id: peter
 #  name: "Peter"
@@ -839,10 +839,98 @@
   bio: ""
   thumbnailUrl: person.jpg
 -
+  id: katumba
+  name: "Andrew"
+  surname: "Katumba"
+  company: "Makerere University"
+  title: "TBD"
+  bio: ""
+  thumbnailUrl: person.jpg
+-
+  id: damon
+  name: "Civin"
+  surname: "Damon"
+  company: "META, USA"
+  title: "TBD"
+  bio: ""
+  thumbnailUrl: person.jpg
+-
+  id: patel
+  name: "Patel"
+  surname: "Niel"
+  company: "META, USA"
+  title: "TBD"
+  bio: ""
+  thumbnailUrl: person.jpg
+-
+  id: wanzare
+  name: "Lilian"
+  surname: "Wanzare"
+  company: "TBD"
+  title: "TBD"
+  bio: ""
+  thumbnailUrl: person.jpg
+-
+  id: hadgu
+  name: "Asme"
+  surname: "Hadgu"
+  company: "TBD"
+  title: "TBD"
+  bio: ""
+  thumbnailUrl: person.jpg
+-
+  id: shamsuddeen
+  name: "Shamsuddeen"
+  surname: "Muhammad"
+  company: "TBD"
+  title: "TBD"
+  bio: ""
+  thumbnailUrl: person.jpg
+-
+  id: owomugisha
+  name: "Godliver"
+  surname: "Owomugisha"
+  company: "TBD"
+  title: "TBD"
+  bio: ""
+  thumbnailUrl: person.jpg
+-
+  id: sekitoleko
+  name: "Irene"
+  surname: "Sekitoleko"
+  company: "TBD"
+  title: "TBD"
+  bio: ""
+  thumbnailUrl: person.jpg
+-
+  id: gareth
+  name: "Billy"
+  surname: "Gareth"
+  company: "AI Community -Kenya"
+  title: "TBD"
+  bio: ""
+  thumbnailUrl: person.jpg
+-
+  id: ryakitimbo
+  name: "Rebecca"
+  surname: "Ryakitimbo"
+  company: "Mozilla Common Voice"
+  title: "TBD"
+  bio: ""
+  thumbnailUrl: person.jpg
+-
   id: nssf
   name: "TBD"
   surname: ""
   company: "NSSF, Uganda"
+  title: "TBD"
+  bio: ""
+  thumbnailUrl: person.jpg
+-
+  id: googleAI
+  name: "Google"
+  surname: "AI"
+  company: "Google AI, Ghana"
   title: "TBD"
   bio: ""
   thumbnailUrl: person.jpg

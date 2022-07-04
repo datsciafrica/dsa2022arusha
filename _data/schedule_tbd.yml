@@ -166,12 +166,12 @@
     - {
         startTime: "14:00",
         endTime: "15:00",
-        sessionIds: [spatial_modeling]
+        sessionIds: [data_engineering]
     }
     - {
         startTime: "15:00",
         endTime: "16:00",
-        sessionIds: [practical_spatial_modeling]
+        sessionIds: [practical_data_engineering]
     }
     - {
         startTime: "16:00",
@@ -181,7 +181,7 @@
     - {
         startTime: "16:30",
         endTime: "17:30",
-        sessionIds: [data_engineering]
+        sessionIds: [spatial_modeling]
     }
     - {
         startTime: "17:30",
@@ -279,7 +279,7 @@
     - {
         startTime: "10:00",
         endTime: "10:30",
-        sessionIds: [blank]
+        sessionIds: [topological_data_analysis]
     }
     - {
         startTime: "10:30",
@@ -293,18 +293,13 @@
     }
     - {
     	startTime: "11:30",
-    	endTime: "12:30",
+    	endTime: "12:00",
     	sessionIds: [pope_prayer]
     }
     - {
-        startTime: "12:30",
-        endTime: "12:45",
-        sessionIds: [fruit_bat_movement]
-    }
-    - {
-    	startTime: "12:45",
-    	endTime: "13:00",
-    	sessionIds: [track_misinformation_perceptions]
+        startTime: "12:00",
+        endTime: "13:00",
+        sessionIds: [african_languages]
     }
     - {
         startTime: "13:00",
@@ -319,7 +314,7 @@
     - {
         startTime: "14:30",
         endTime: "16:00",
-        sessionIds: [snapshot_talks]
+        sessionIds: [panel_on_datasets]
     }
     - {
         startTime: "16:00",
@@ -365,8 +360,23 @@
     }
     - {
         startTime: "11:00",
+        endTime: "11:30",
+        sessionIds: [health_equity]
+    }
+    - {
+        startTime: "11:30",
+        endTime: "11:50",
+        sessionIds: [AI_community_experience]
+    }
+    - {
+        startTime: "11:50",
+        endTime: "12:10",
+        sessionIds: [mozilla_common_voice]
+    }
+    - {
+        startTime: "12:10",
         endTime: "12:30",
-        sessionIds: [datasets_lacuna]
+        sessionIds: [policy_research]
     }
     - {
         startTime: "12:30",

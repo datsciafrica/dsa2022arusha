@@ -100,7 +100,7 @@
   title: "Data Visualization"
   description: "Data Visualization"
   subtype: presentation
-  speakers: [elaine, morine]
+  speakers: [elaine, morine, feng]
   language: en
   complexity: "Intermediate"
   presentation: ""
@@ -109,7 +109,7 @@
   title: "Practical Session – Data Visualization"
   description: "Practical Session – Data Visualization"
   subtype: presentation
-  speakers: [elaine, morine]
+  speakers: [elaine, morine, feng]
   language: en
   complexity: "Intermediate"
   presentation: ""
@@ -137,6 +137,15 @@
   complexity: "Intermediate"
   presentation: "tbd"
 -
+  id: shell_scripting
+  title: "Shell Scripting with Bash"
+  description: "Shell Scripting with Bash"
+  subtype: presentation
+  speakers: [mugaga]
+  language: en
+  complexity: "Intermediate"
+  presentation: "tbd"
+-
   id: ML_research
   title: "Selected Topic: ML Research"
   description: "Selected Topic: ML Research"
@@ -146,20 +155,20 @@
   complexity: "Intermediate"
   presentation: ""
 -
-  id: deep_learning_fundamentals
-  title: "Deep Learning Fundamentals"
-  description: "Deep Learning Fundamentals"
+  id: deep_learning_hands_on
+  title: "Hands-on introduction to Deep Learning"
+  description: "Hands-on introduction to Deep Learning"
   subtype: presentation
   speakers: [ernest, katumba]
   language: en
   complexity: "Intermediate"
   presentation: ""
 -
-  id: practical_deep_learning_fundamentals
-  title: "Practical Session – Deep Learning Fundamentals"
-  description: "Practical Session – Deep Learning Fundamentals"
+  id: bayesian_machine_learning
+  title: "Bayesian Machine Learning"
+  description: "Bayesian Machine Learning"
   subtype: presentation
-  speakers: [ernest, katumba]
+  speakers: [markus,humberto]
   language: en
   complexity: "Intermediate"
   presentation: ""
@@ -182,11 +191,11 @@
   complexity: "Intermediate"
   presentation: "tbd"
 - 
-  id: bayesian_machine_learning
-  title: "Bayesian Machine Learning"
-  description: "Bayesian Machine Learning"
+  id: AI_readiness_index
+  title: "AI Readiness Index for Africa"
+  description: "AI Readiness Index for Africa"
   subtype: presentation
-  speakers: [markus,humberto]
+  speakers: [martin]
   language: en
   complexity: "Intermediate"
   presentation: "tbd"
@@ -209,11 +218,11 @@
   complexity: "Intermediate"
   presentation: "tbd"
 - 
-  id: spatial_modeling
-  title: "Spatial Modeling"
-  description: "Spatial Modeling"
+  id: gender_differences_urban_mobility
+  title: "Gender Differences in Urban Mobility"
+  description: "Gender Differences in Urban Mobility"
   subtype: presentation
-  speakers: [martin]
+  speakers: [menezes]
   language: en
   complexity: "Intermediate"
   presentation: "tbd"
@@ -231,7 +240,7 @@
   title: "Conclusion and Closing Remarks for Summer School"
   description: "Conclusion and Closing Remarks for Summer School"
   subtype: presentation
-  speakers: [thiga, marcos, markus, humberto, martin, damon, luis, patel]
+  speakers: [thiga, marcos, markus, humberto, martin, damon, luis, patel, menezes]
   language: en
   complexity: "Intermediate"
   presentation: "tbd"
@@ -278,18 +287,18 @@
   language: en
   complexity: "Intermediate"
   presentation: "tbd"
-- 
-  id: gender_differences
-  title: "Keynote:# Gender Differences in Urban Mobility"
-  subtype: presentation
-  speakers: [menezes]
-  language: en
-  complexity: "Intermediate"
-  presentation: "tbd"
+#- 
+#  id: gender_differences
+#  title: "Keynote:# Gender Differences in Urban Mobility"
+#  subtype: presentation
+#  speakers: [menezes]
+#  language: en
+#  complexity: "Intermediate"
+#  presentation: "tbd"
 - 
   id: pope_prayer
-  title: "Is the Pope’s Prayer App Opening a Pandora’s Box?"
-  subtype: presentation
+  title: "Keynote:# Is the Pope’s Prayer App Opening a Pandora’s Box?"
+  subtype: keynote
   speakers: [agaba]
   language: en
   complexity: "Intermediate"
@@ -304,7 +313,7 @@
   presentation: "tbd"
 - 
   id: panel_on_datasets
-  title: "Panel on Datasets for Africa- experiences from Lacuna Fund, Government and DSA Research Award"
+  title: "Harnessing data for socio-economic developmentexperiences from Lacuna Fund, Government and DSA Research Award"
   subtype: presentation
   speakers: [martin, wanzare, hadgu, shamsuddeen, owomugisha, sekitoleko]
   language: en

@@ -98,8 +98,13 @@
     }
     - {
         startTime: "11:00",
-        endTime: "13:00",
+        endTime: "12:00",
         sessionIds: [natural_language_processing]
+    }
+    - {
+        startTime: "12:00",
+        endTime: "13:00",
+        sessionIds: [shell_scripting]
     }
     - {
          startTime: "13:00",
@@ -114,7 +119,7 @@
     - {
         startTime: "15:00",
         endTime: "16:00",
-        sessionIds: [deep_learning_fundamentals]
+        sessionIds: [deep_learning_hands_on]
     }
     - {
         startTime: "16:00",
@@ -124,7 +129,7 @@
     - {
         startTime: "16:30",
         endTime: "18:00",
-        sessionIds: [practical_deep_learning_fundamentals]
+        sessionIds: [bayesian_machine_learning]
     }
 #    - {
 #        startTime: "16:00",
@@ -156,7 +161,7 @@
     - {
         startTime: "11:40",
         endTime: "13:00",
-        sessionIds: [bayesian_machine_learning]
+        sessionIds: [AI_readiness_index]
     }
     - {
         startTime: "13:00",
@@ -181,7 +186,7 @@
     - {
         startTime: "16:30",
         endTime: "17:30",
-        sessionIds: [spatial_modeling]
+        sessionIds: [gender_differences_urban_mobility]
     }
     - {
         startTime: "17:30",
@@ -286,18 +291,18 @@
         endTime: "11:00",
         sessionIds: [small-break]
     }
+#    - {
+#        startTime: "11:00",
+#        endTime: "11:30",
+#        sessionIds: [gender_differences]
+#    }
     - {
-        startTime: "11:00",
-        endTime: "11:30",
-        sessionIds: [gender_differences]
-    }
-    - {
-    	startTime: "11:30",
-    	endTime: "12:00",
+    	startTime: "11:00",
+    	endTime: "11:30",
     	sessionIds: [pope_prayer]
     }
     - {
-        startTime: "12:00",
+        startTime: "11:30",
         endTime: "13:00",
         sessionIds: [african_languages]
     }

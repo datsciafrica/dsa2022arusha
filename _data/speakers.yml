@@ -791,7 +791,7 @@
   name: "Ronaldo"
   surname: "Menezes"
   title: "Professor of Data and Network Science"
-  company: "Alan Turing Institute"
+  company: "University of Exeter"
   thumbnailUrl: person.jpg
 -
   id: agaba
@@ -813,6 +813,20 @@
   surname: "Maina"
   title: "TBD"
   company: "SEACOM"
+  thumbnailUrl: person.jpg
+-
+  id: feng
+  name: "Alice"
+  surname: "Feng"
+  title: "TBD"
+  company: "UNDP"
+  thumbnailUrl: person.jpg
+-
+  id: mugaga
+  name: "Pius"
+  surname: "Mugaga"
+  title: "TBD"
+  company: "UN Global Pulse, Kampala"
   thumbnailUrl: person.jpg
 -
   id: facebook
@@ -906,7 +920,7 @@
   id: gareth
   name: "Billy"
   surname: "Gareth"
-  company: "AI Community -Kenya"
+  company: "NVIDIA AI Ambassador - Africa"
   title: "TBD"
   bio: ""
   thumbnailUrl: person.jpg

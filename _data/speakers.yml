@@ -143,7 +143,8 @@
   surname: "Amutorine"
   title: "Data Analytics Assistant"
   company: "UN Pulse Lab Kampala"
-  thumbnailUrl: morine.jpg
+  thumbnailUrl: Morine.jpg
+  bio: "Morine is passionate about analysing, visualising and communicating data. Her work has been dominated by social data including social media data (conducting real-time content analysis and knowledge translation research), public radio (analysing public perceptions on topics that inform the work of the SDGs) and Google search data (to reveal knowledge gaps and detect disparities in health information availability). She particularly enjoys creating data-driven visuals to go with her research findings. She is currently a data associate at UN Global Pulse based in Kampala."
   social:
     - {name: "twitter", link: "https://twitter.com/theamutorine"}
     - {name: "site", link: "http://site.com/"}
@@ -820,7 +821,11 @@
   surname: "Feng"
   title: "TBD"
   company: "UNDP"
-  thumbnailUrl: person.jpg
+  bio: "Alice Feng is a data visualization developer based in the Washington, DC area. She is passionate about using design to make data and information more accessible to broader audiences and recently has been exploring ways to bring more diversity, equity, and inclusion into the way we visualize data. Alice is currently making charts and maps for the United Nations Development Programme. "
+  thumbnailUrl: elaine.jpg
+  social:
+    - {name: "twitter", link: "https://twitter.com/fleecealeece"}
+  thumbnailUrl: alice.jpg
 -
   id: mugaga
   name: "Pius"

@@ -754,7 +754,7 @@
   thumbnailUrl: RonaldoMenezes.jpeg
 -
   id: agaba
-  name: "Morris"
+  name: "Prof. Morris"
   surname: "Agaba"
   title: "Professor"
   company: "TBD"
@@ -870,20 +870,20 @@
   title: "Head of Informatics Department"
   company: "IAA"
   thumbnailUrl: person.jpg
--
-  id: davis
-  name: "Davis"
-  surname: "David"
-  title: "Zindi Ambassador"
-  company: "Zindi"
-  thumbnailUrl: person.jpg
+#-
+#  id: davis
+#  name: "Davis"
+#  surname: "David"
+#  title: "Zindi Ambassador"
+#  company: "Zindi"
+#  thumbnailUrl: person.jpg
 -
   id: humberto
   name: "Christian"
   surname: "Humberto"
   title: "Lecturer"
   company: "University of Cambridge"
-  thumbnailUrl: person.jpg
+  thumbnailUrl: ChristianHumberto.jpeg
 -
   id: ryakitimbo
   name: "Rebecca"

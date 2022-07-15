@@ -55,7 +55,7 @@
 -
   id: registration
   title: "Registration"
-  description: "Introduction to the summer school"
+  description: "Registration"
   subtype: presentation
   speakers: []
   language: en
@@ -100,7 +100,7 @@
   title: "Data Visualization"
   description: "Data Visualization"
   subtype: presentation
-  speakers: [elaine, morine, feng]
+  speakers: [andrei, meissner, elaine, morine, feng]
   language: en
   complexity: "Intermediate"
   presentation: ""
@@ -119,10 +119,10 @@
 
 -
   id: fundamentals_IoT
-  title: "Fundamentals of IoT"
-  description: "Fundamentals of IoT"
+  title: "IoT Data Processing"
+  description: "IoT Data Processing"
   subtype: presentation
-  speakers: [ciira, jason, lorna, gabriel]
+  speakers: [ciira, jason, lorna, gabriel, yuri]
   language: en
   complexity: "Intermediate"
   presentation: "tbd"
@@ -182,9 +182,9 @@
   language: en
   complexity: "Beginner"
 -
-  id: crime_dynamics_analytics
-  title: "Crime Dynamics and Crime Analytics"
-  description: "Crime Dynamics and Crime Analytics"
+  id: computational_modelling
+  title: "Computational modelling for understanding inequality in social gatherings"
+  description: "Computational modelling for understanding inequality in social gatherings"
   subtype: presentation
   speakers: [marcos]
   language: en
@@ -279,11 +279,11 @@
   complexity: "Intermediate"
   presentation: "tbd"
 -
-  id: topological_data_analysis
-  title: "Simplicial Complexes (Introducing Topological Data Analysis)"
-  description: "Simplicial Complexes (Introducing Topological Data Analysis)"
+  id: dsa_research_award
+  title: "DSA Research Award -Early detection and diagnosis of crop diseases in asymptomatic plants"
+  description: "DSA Research Award -Early detection and diagnosis of crop diseases in asymptomatic plants"
   subtype: presentation
-  speakers: [gaba]
+  speakers: [owomugisha]
   language: en
   complexity: "Intermediate"
   presentation: "tbd"
@@ -297,7 +297,7 @@
 #  presentation: "tbd"
 - 
   id: pope_prayer
-  title: "Keynote:# Is the Pope’s Prayer App Opening a Pandora’s Box?"
+  title: "Keynote:# TBA"
   subtype: keynote
   speakers: [agaba]
   language: en

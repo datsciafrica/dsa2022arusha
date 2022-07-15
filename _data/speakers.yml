@@ -647,27 +647,6 @@
 #  thumbnailUrl: person.jpg
 #  social:
 #    - {name: "site", link: "https://www.linkedin.com/in/emmanuel-mupuya-a2b03173/"}
--
-  id: dsa
-  name: "DSA"
-  surname: ""
-  title: "TBC"
-  company: "DSA"
-  thumbnailUrl: person.jpg 
--
-  id: masakhane
-  name: "Masakhane"
-  surname: ""
-  title: "TBD"
-  company: "Masakhane"
-  thumbnailUrl: person.jpg
--
-  id: pcgc
-  name: "PCs and GC"
-  surname: ""
-  title: "TBD"
-  company: ""
-  thumbnailUrl: person.jpg
 #-
 #  id: raesetje
 #  name: "Raesetje"
@@ -712,11 +691,178 @@
 #  thumbnailUrl: person.jpg Prof Epaphra Manamba Deputy Rector -Academic Research and Consultancy, IAA
 -
   id: epaphra
-  name: "Epaphra"
+  name: "Prof Epaphra"
   surname: "Manamba"
   title: "Deputy Rector - Academic Research and Consultancy"
   company: "IAA"
-  thumbnailUrl: person.jpg 
+  thumbnailUrl: EpaphraManamba.jpeg 
+-
+  id: everson
+  name: "Richard"
+  surname: "Everson"
+  title: "Prof."
+  company: "University of Exeter"
+  thumbnailUrl: RichardEverson.jpeg
+-
+  id: thiga
+  name: "Moses"
+  surname: "Thiga"
+  title: "Lecturer"
+  company: "Kabarak University, Kenya"
+  thumbnailUrl: MosesThiga.jpeg
+-
+  id: marcos
+  name: "Marcos"
+  surname: "Oliveira"
+  title: "Lecturer"
+  company: "University of Exeter"
+  thumbnailUrl: MarcosOliveira.jpeg
+-
+  id: markus
+  name: "Markus"
+  surname: "Kaiser"
+  title: "Lecturer"
+  company: "University of Cambridge"
+  thumbnailUrl: MarkusKaiser.jpeg
+-
+  id: mwaitete
+  name: "Dr Mwaitete"
+  surname: "Cairo"
+  title: "Rector"
+  company: "IAA"
+  thumbnailUrl: MwaiteteCairo.jpeg
+-
+  id: kabaza
+  name: "Kabaza"
+  surname: "Runyeta"
+  title: "TBD"
+  company: "Habari Node"
+  thumbnailUrl: KabazaRunyeta.jpeg
+-
+  id: kadeghe
+  name: "Kadeghe"
+  surname: "Fue"
+  title: "TBD"
+  company: "Sokoine University of Agriculture"
+  thumbnailUrl: KadegheFue.jpeg
+-
+  id: menezes
+  name: "Ronaldo"
+  surname: "Menezes"
+  title: "Professor of Data and Network Science"
+  company: "University of Exeter"
+  thumbnailUrl: RonaldoMenezes.jpeg
+-
+  id: agaba
+  name: "Morris"
+  surname: "Agaba"
+  title: "Professor"
+  company: "TBD"
+  thumbnailUrl: MorrisAgaba.jpg
+-
+  id: maina
+  name: "Noah"
+  surname: "Maina"
+  title: "TBD"
+  company: "SEACOM"
+  thumbnailUrl: NoahMaina.jpeg
+-
+  id: feng
+  name: "Alice"
+  surname: "Feng"
+  title: "TBD"
+  company: "UNDP"
+  bio: "Alice Feng is a data visualization developer based in the Washington, DC area. She is passionate about using design to make data and information more accessible to broader audiences and recently has been exploring ways to bring more diversity, equity, and inclusion into the way we visualize data. Alice is currently making charts and maps for the United Nations Development Programme. "
+  social:
+    - {name: "twitter", link: "https://twitter.com/fleecealeece"}
+  thumbnailUrl: alice.jpg
+-
+  id: mugaga
+  name: "Pius"
+  surname: "Mugaga"
+  title: "TBD"
+  company: "UN Global Pulse, Kampala"
+  thumbnailUrl: PiusMugagga.jpeg
+-
+  id: nyamawe
+  name: "Ally"
+  surname: "Nyamawe"
+  company: "University of Dodoma"
+  title: "TBD"
+  bio: ""
+  thumbnailUrl: AllyNyamawe.jpeg
+-
+  id: katumba
+  name: "Andrew"
+  surname: "Katumba"
+  company: "Makerere University"
+  title: "TBD"
+  bio: ""
+  thumbnailUrl: AndrewKatumba.jpeg
+-
+  id: damon
+  name: "Civin"
+  surname: "Damon"
+  company: "META, USA"
+  title: "TBD"
+  bio: ""
+  thumbnailUrl: DamonCivin.jpeg
+-
+  id: wanzare
+  name: "Lilian"
+  surname: "Wanzare"
+  company: "Maseno University"
+  title: "Lecturer"
+  bio: ""
+  thumbnailUrl: LilianWanzare.jpeg
+-
+  id: hadgu
+  name: "Asme"
+  surname: "Hadgu"
+  company: "Lesan"
+  title: "Co-Founder"
+  bio: ""
+  thumbnailUrl: AsmeHadgu.jpeg
+-
+  id: shamsuddeen
+  name: "Shamsuddeen"
+  surname: "Muhammad"
+  company: "Masakhane"
+  title: "NLP Researcher"
+  bio: ""
+  thumbnailUrl: ShamsuddeenMuhammad.jpeg
+-
+  id: owomugisha
+  name: "Godliver"
+  surname: "Owomugisha"
+  company: "Busitema University"
+  title: "Senior Lecturer"
+  bio: ""
+  thumbnailUrl: GodliverOwomugisha.jpeg
+-
+  id: sekitoleko
+  name: "Irene"
+  surname: "Sekitoleko"
+  company: "Ministry of ICT- Uganda"
+  title: "TBD"
+  bio: ""
+  thumbnailUrl: IreneSekitoleko.jpeg
+-
+  id: gareth
+  name: "Billy"
+  surname: "Gareth"
+  company: "NVIDIA AI Ambassador - Africa"
+  title: "TBD"
+  bio: ""
+  thumbnailUrl: BillyGareth.jpeg
+-
+  id: yuri
+  name: "Yuri"
+  surname: "Njathi"
+  company: "Dedan Kimathi University of Technology, Kenya"
+  title: "TBD"
+  bio: ""
+  thumbnailUrl: YuriNjathi_DeKUT.jpg
 -
   id: msolla
   name: "Allan"
@@ -732,34 +878,6 @@
   company: "Zindi"
   thumbnailUrl: person.jpg
 -
-  id: everson
-  name: "Richard"
-  surname: "Everson"
-  title: "Prof."
-  company: "University of Exeter"
-  thumbnailUrl: person.jpg
--
-  id: thiga
-  name: "Moses"
-  surname: "Thiga"
-  title: "Lecturer"
-  company: "Kabarak University, Kenya"
-  thumbnailUrl: person.jpg
--
-  id: marcos
-  name: "Marcos"
-  surname: "Oliveira"
-  title: "Lecturer"
-  company: "University of Exeter"
-  thumbnailUrl: person.jpg
--
-  id: markus
-  name: "Markus"
-  surname: "Kaiser"
-  title: "Lecturer"
-  company: "University of Cambridge"
-  thumbnailUrl: person.jpg
--
   id: humberto
   name: "Christian"
   surname: "Humberto"
@@ -767,71 +885,20 @@
   company: "University of Cambridge"
   thumbnailUrl: person.jpg
 -
-  id: mwaitete
-  name: "Cairo"
-  surname: "Mwaitete"
-  title: "Rector"
-  company: "IAA"
+  id: ryakitimbo
+  name: "Rebecca"
+  surname: "Ryakitimbo"
+  company: "Mozilla Common Voice"
+  title: "Fellow"
+  bio: ""
   thumbnailUrl: person.jpg
 -
-  id: kabaza
-  name: "Kabaza"
-  surname: "Runyeta"
+  id: patel
+  name: "Patel"
+  surname: "Niel"
+  company: "META, USA"
   title: "TBD"
-  company: "Habari Node"
-  thumbnailUrl: person.jpg
--
-  id: kadeghe
-  name: "Kadeghe"
-  surname: "Fue"
-  title: "TBD"
-  company: "Sokoine University of Agriculture"
-  thumbnailUrl: person.jpg
--
-  id: menezes
-  name: "Ronaldo"
-  surname: "Menezes"
-  title: "Professor of Data and Network Science"
-  company: "University of Exeter"
-  thumbnailUrl: person.jpg
--
-  id: agaba
-  name: "Morris"
-  surname: "Agaba"
-  title: "Professor"
-  company: "TBD"
-  thumbnailUrl: person.jpg
--
-  id: adebayo
-  name: "Segun"
-  surname: "Adebayo"
-  title: "TBD"
-  company: "Bowen University"
-  thumbnailUrl: person.jpg
--
-  id: maina
-  name: "Noah"
-  surname: "Maina"
-  title: "TBD"
-  company: "SEACOM"
-  thumbnailUrl: person.jpg
--
-  id: feng
-  name: "Alice"
-  surname: "Feng"
-  title: "TBD"
-  company: "UNDP"
-  bio: "Alice Feng is a data visualization developer based in the Washington, DC area. She is passionate about using design to make data and information more accessible to broader audiences and recently has been exploring ways to bring more diversity, equity, and inclusion into the way we visualize data. Alice is currently making charts and maps for the United Nations Development Programme. "
-  thumbnailUrl: elaine.jpg
-  social:
-    - {name: "twitter", link: "https://twitter.com/fleecealeece"}
-  thumbnailUrl: alice.jpg
--
-  id: mugaga
-  name: "Pius"
-  surname: "Mugaga"
-  title: "TBD"
-  company: "UN Global Pulse, Kampala"
+  bio: ""
   thumbnailUrl: person.jpg
 -
   id: facebook
@@ -850,92 +917,32 @@
   bio: ""
   thumbnailUrl: person.jpg
 -
-  id: nyamawe
-  name: "Ally"
-  surname: "Nyamawe"
-  company: "University of Dodoma"
+  id: adebayo
+  name: "Segun"
+  surname: "Adebayo"
   title: "TBD"
-  bio: ""
+  company: "Bowen University"
   thumbnailUrl: person.jpg
 -
-  id: katumba
-  name: "Andrew"
-  surname: "Katumba"
-  company: "Makerere University"
+  id: dsa
+  name: "DSA"
+  surname: ""
+  title: "TBC"
+  company: "DSA"
+  thumbnailUrl: person.jpg 
+-
+  id: masakhane
+  name: "Masakhane"
+  surname: ""
   title: "TBD"
-  bio: ""
+  company: "Masakhane"
   thumbnailUrl: person.jpg
 -
-  id: damon
-  name: "Civin"
-  surname: "Damon"
-  company: "META, USA"
+  id: pcgc
+  name: "PCs and GC"
+  surname: ""
   title: "TBD"
-  bio: ""
-  thumbnailUrl: person.jpg
--
-  id: patel
-  name: "Patel"
-  surname: "Niel"
-  company: "META, USA"
-  title: "TBD"
-  bio: ""
-  thumbnailUrl: person.jpg
--
-  id: wanzare
-  name: "Lilian"
-  surname: "Wanzare"
-  company: "TBD"
-  title: "TBD"
-  bio: ""
-  thumbnailUrl: person.jpg
--
-  id: hadgu
-  name: "Asme"
-  surname: "Hadgu"
-  company: "TBD"
-  title: "TBD"
-  bio: ""
-  thumbnailUrl: person.jpg
--
-  id: shamsuddeen
-  name: "Shamsuddeen"
-  surname: "Muhammad"
-  company: "TBD"
-  title: "TBD"
-  bio: ""
-  thumbnailUrl: person.jpg
--
-  id: owomugisha
-  name: "Godliver"
-  surname: "Owomugisha"
-  company: "TBD"
-  title: "TBD"
-  bio: ""
-  thumbnailUrl: person.jpg
--
-  id: sekitoleko
-  name: "Irene"
-  surname: "Sekitoleko"
-  company: "TBD"
-  title: "TBD"
-  bio: ""
-  thumbnailUrl: person.jpg
--
-  id: gareth
-  name: "Billy"
-  surname: "Gareth"
-  company: "NVIDIA AI Ambassador - Africa"
-  title: "TBD"
-  bio: ""
-  thumbnailUrl: person.jpg
--
-  id: ryakitimbo
-  name: "Rebecca"
-  surname: "Ryakitimbo"
-  company: "Mozilla Common Voice"
-  title: "TBD"
-  bio: ""
+  company: ""
   thumbnailUrl: person.jpg
 -
   id: nssf

@@ -366,7 +366,7 @@
     - {
         startTime: "11:00",
         endTime: "11:30",
-        sessionIds: [health_equity]
+        sessionIds: [no_language]
     }
     - {
         startTime: "11:30",

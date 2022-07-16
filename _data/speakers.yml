@@ -807,6 +807,8 @@
   title: "TBD"
   bio: ""
   thumbnailUrl: DamonCivin.jpeg
+  social:
+    - {name: "twitter", link: "https://twitter.com/DCivin"}
 -
   id: wanzare
   name: "Lilian"
@@ -888,8 +890,8 @@
   id: ryakitimbo
   name: "Rebecca"
   surname: "Ryakitimbo"
-  company: "Mozilla Common Voice"
-  title: "Fellow"
+  company: "Mozilla"
+  title: "Common Voice Fellow at Mozilla"
   bio: ""
   thumbnailUrl: person.jpg
 -

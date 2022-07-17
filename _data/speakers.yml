@@ -865,13 +865,6 @@
   title: "TBD"
   bio: ""
   thumbnailUrl: YuriNjathi_DeKUT.jpg
--
-  id: msolla
-  name: "Allan"
-  surname: "Msolla"
-  title: "Head of Informatics Department"
-  company: "IAA"
-  thumbnailUrl: person.jpg
 #-
 #  id: davis
 #  name: "Davis"
@@ -887,19 +880,26 @@
   company: "University of Cambridge"
   thumbnailUrl: ChristianHumberto.jpeg
 -
-  id: ryakitimbo
-  name: "Rebecca"
-  surname: "Ryakitimbo"
-  company: "Mozilla"
-  title: "Common Voice Fellow at Mozilla"
-  bio: ""
-  thumbnailUrl: person.jpg
--
   id: patel
   name: "Patel"
   surname: "Niel"
   company: "META, USA"
   title: "TBD"
+  bio: ""
+  thumbnailUrl: neilpatel.png
+-
+  id: msolla
+  name: "Allan"
+  surname: "Msolla"
+  title: "Head of Informatics Department"
+  company: "IAA"
+  thumbnailUrl: person.jpg
+-
+  id: ryakitimbo
+  name: "Rebecca"
+  surname: "Ryakitimbo"
+  company: "Mozilla"
+  title: "Common Voice Fellow at Mozilla"
   bio: ""
   thumbnailUrl: person.jpg
 -

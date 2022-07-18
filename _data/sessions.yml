@@ -76,7 +76,7 @@
   speakers: [claire,neema]
   language: en
   complexity: "Beginner"
-  presentation: "tbd"
+  presentation: "https://drive.google.com/drive/folders/1Poicfs1PgA_H8Ob_BkE5xE3W-mUXS8Hd?usp=sharing"
 -
   id: ML_systems_design
   title: "ML Systems Design"
@@ -85,7 +85,7 @@
   speakers: [neil]
   language: en
   complexity: "Intermediate"
-  presentation: "tbd"
+  presentation: "https://drive.google.com/drive/folders/18JEq6B53nh1crEPIz9MrLk88loeCHn2v?usp=sharing"
 -
   id: ML_systems_design_practical
   title: "Practical Session – ML Systems Design"
@@ -94,7 +94,7 @@
   speakers: [andrei, meissner]
   language: en
   complexity: "Intermediate"
-  presentation: ""
+  presentation: "https://drive.google.com/drive/folders/18JEq6B53nh1crEPIz9MrLk88loeCHn2v?usp=sharing"
 -
   id: data_visualization
   title: "Data Visualization"
@@ -103,7 +103,7 @@
   speakers: [elaine, morine, feng]
   language: en
   complexity: "Intermediate"
-  presentation: ""
+  presentation: "https://drive.google.com/drive/folders/1VjCFWm3g5CTf6g4B1TN_c2bA-IQ17J3b?usp=sharing"
 -
   id: data_visualization_practical
   title: "Practical Session – Data Visualization"
@@ -112,7 +112,7 @@
   speakers: [elaine, morine, feng]
   language: en
   complexity: "Intermediate"
-  presentation: ""
+  presentation: "https://drive.google.com/drive/folders/1VjCFWm3g5CTf6g4B1TN_c2bA-IQ17J3b?usp=sharing"
   
 # Summer School Day 2----------------------------------------------------------------------
 

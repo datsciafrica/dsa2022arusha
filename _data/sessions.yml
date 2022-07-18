@@ -125,7 +125,7 @@
   speakers: [ciira, jason, lorna, gabriel, yuri]
   language: en
   complexity: "Intermediate"
-  presentation: "tbd"
+  presentation: "https://github.com/DeKUT-DSAIL/dsa2022-Arusha"
 
 -
   id: natural_language_processing

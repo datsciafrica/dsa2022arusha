@@ -172,15 +172,15 @@
   thumbnailUrl: claire2.jpg
   social:
     - {name: "twitter", link: "https://twitter.com/bitsclarybits"}
-#-
-#  id: benakera
-#  name: "Benjamin"
-#  surname: "Akera"
-#  title: "Research Assistant, AI Lab & Co-founder Feyti Analytics"
-#  company: "MILA & Makerere University"
-#  thumbnailUrl: Akera.jpg
-#  social:
-#    - {name: "twitter", link: "https://twitter.com/benjaminakera"}
+-
+  id: benakera
+  name: "Benjamin"
+  surname: "Akera"
+  title: "Researcher"
+  company: "McGill University"
+  thumbnailUrl: Akera.jpg
+  social:
+    - {name: "twitter", link: "https://twitter.com/benjaminakera"}
 #-
 #  id: andreas
 #  name: "Andreas"

@@ -280,8 +280,8 @@
   presentation: "tbd"
 -
   id: dsa_research_award
-  title: "DSA Research Award -Early detection and diagnosis of crop diseases in asymptomatic plants"
-  description: "DSA Research Award -Early detection and diagnosis of crop diseases in asymptomatic plants"
+  title: "Early Detection and Diagnosis of Crop Diseases: Acquisition and Machine Learning Analysis of Imagery and Spectral Data"
+  description: "Early Detection and Diagnosis of Crop Diseases: Acquisition and Machine Learning Analysis of Imagery and Spectral Data"
   subtype: presentation
   speakers: [owomugisha]
   language: en

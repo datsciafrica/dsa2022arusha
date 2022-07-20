@@ -141,8 +141,8 @@
   id: morine
   name: "Morine"
   surname: "Amutorine"
-  title: "Data Analytics Assistant"
-  company: "UN Pulse Lab Kampala"
+  title: "Data Associate"
+  company: "UN Global Pulse, Kampala"
   thumbnailUrl: Morine.jpg
   bio: "Morine is passionate about analysing, visualising and communicating data. Her work has been dominated by social data including social media data (conducting real-time content analysis and knowledge translation research), public radio (analysing public perceptions on topics that inform the work of the SDGs) and Google search data (to reveal knowledge gaps and detect disparities in health information availability). She particularly enjoys creating data-driven visuals to go with her research findings. She is currently a data associate at UN Global Pulse based in Kampala."
   social:
@@ -632,7 +632,7 @@
   name: "Martin Gordon"
   surname: "Mubangizi"
   title: "Officer in Charge and Data Science Officer"
-  company: "UN Data Innovations Lab, Kampala"
+  company: "UN Global Pulse, Kampala"
   thumbnailUrl: martin.png
   social:
     - {name: "twitter", link: "https://twitter.com/mmubangizi15"}

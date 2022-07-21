@@ -940,6 +940,20 @@
   company: "Masakhane"
   thumbnailUrl: person.jpg
 -
+  id: damilare
+  name: "Ms. Damilare"
+  surname: "Ayonkule"
+  title: "TBD"
+  company: "Bowen University Iwo, Nigeria"
+  thumbnailUrl: person.jpg
+-
+  id: halleluyah
+  name: "Dr Halleluyah"
+  surname: "Aworinde"
+  title: "TBD"
+  company: "Bowen University Iwo, Nigeria"
+  thumbnailUrl: person.jpg
+-
   id: pcgc
   name: "PCs and GC"
   surname: ""
@@ -948,8 +962,8 @@
   thumbnailUrl: person.jpg
 -
   id: nssf
-  name: "TBD"
-  surname: ""
+  name: "Alvin"
+  surname: "Kabwama"
   company: "NSSF, Uganda"
   title: "TBD"
   bio: ""

@@ -303,6 +303,11 @@
     }
     - {
         startTime: "11:30",
+        endTime: "12:00",
+        sessionIds: [Leveraging_Radio]
+    }
+    - {
+        startTime: "12:00",
         endTime: "13:00",
         sessionIds: [african_languages]
     }
@@ -346,7 +351,7 @@
     - {
         startTime: "09:30",
         endTime: "09:55",
-        sessionIds: [christian_humberto]
+        sessionIds: [leveraging_on_radio]
     }
     - {
         startTime: "09:55",
@@ -385,7 +390,12 @@
     }
     - {
         startTime: "12:30",
-        endTime: "13:00",
+        endTime: "13:30",
+        sessionIds: [snapshot_talks]
+    }
+    - {
+        startTime: "13:30",
+        endTime: "13:40",
         sessionIds: [closing]
     }
     

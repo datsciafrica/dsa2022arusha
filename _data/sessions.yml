@@ -153,7 +153,7 @@
   speakers: [everson]
   language: en
   complexity: "Intermediate"
-  presentation: ""
+  presentation: "https://drive.google.com/file/d/1zHz2T1vrHvgkanpu5cdVVRV1C5JpBiN4/view?usp=sharing"
 -
   id: deep_learning_hands_on
   title: "Hands-on introduction to Deep Learning"
@@ -162,7 +162,7 @@
   speakers: [ernest, katumba]
   language: en
   complexity: "Intermediate"
-  presentation: ""
+  presentation: "https://drive.google.com/file/d/13aj7_8931immYGgQuvrnGETxEpNf3daN/view?usp=sharing"
 -
   id: bayesian_machine_learning
   title: "Bayesian Machine Learning"
@@ -171,7 +171,7 @@
   speakers: [markus,humberto]
   language: en
   complexity: "Intermediate"
-  presentation: ""
+  presentation: "https://drive.google.com/file/d/13aj7_8931immYGgQuvrnGETxEpNf3daN/view?usp=sharing"
 #Summer School Day 3---------------------------------------------------------------------------
 -
   id: enterprise_design
@@ -181,6 +181,7 @@
   speakers: [thiga]
   language: en
   complexity: "Beginner"
+  presentation: "https://drive.google.com/file/d/1Zc3MRf2q04Kg8YzsvEIZAUmYemlWy7F-/view?usp=sharing"
 -
   id: computational_modelling
   title: "Computational modelling for understanding inequality in social gatherings"
@@ -189,7 +190,7 @@
   speakers: [marcos]
   language: en
   complexity: "Intermediate"
-  presentation: "tbd"
+  presentation: "https://drive.google.com/file/d/1CYM-qP1m8ZWtM3-KMKZlHFq62ZdzzBDQ/view?usp=sharing"
 - 
   id: AI_readiness_index
   title: "AI Readiness Index for Africa"
@@ -198,7 +199,7 @@
   speakers: [martin]
   language: en
   complexity: "Intermediate"
-  presentation: "tbd"
+  presentation: "https://docs.google.com/presentation/d/1tifts6o1atyquE_NMpe4xBTSrcCVuVIg/edit?usp=sharing&ouid=106169766544111501619&rtpof=true&sd=true"
 - 
   id: data_engineering
   title: "Data Engineering "
@@ -277,7 +278,7 @@
   speakers: [kadeghe]
   language: en
   complexity: "Intermediate"
-  presentation: "tbd"
+  presentation: "https://drive.google.com/file/d/1dH7ghH3u__dIVNXWqY5MmNcclsnU8atO/view?usp=sharing"
 -
   id: dsa_research_award
   title: "Early Detection and Diagnosis of Crop Diseases: Acquisition and Machine Learning Analysis of Imagery and Spectral Data"
@@ -286,7 +287,7 @@
   speakers: [owomugisha]
   language: en
   complexity: "Intermediate"
-  presentation: "tbd"
+  presentation: "https://drive.google.com/file/d/1mprlYZfMbyV5_TBcrE-rNfsgwsf5thka/view?usp=sharing"
 #- 
 #  id: gender_differences
 #  title: "Keynote:# Gender Differences in Urban Mobility"
@@ -300,6 +301,14 @@
   title: "Keynote:# Data, Technology and Community: An African Farmer’s Perspective"
   subtype: keynote
   speakers: [agaba]
+  language: en
+  complexity: "Intermediate"
+  presentation: "https://drive.google.com/file/d/1L_4CyB89HoF0hOW2i40HzsC9nOwVOPVD/view?usp=sharing"
+- 
+  id: Leveraging_Radio
+  title: "Leveraging on Radio Telementry and Data Analytics to Understand Fruit Bat Movement Pattern"
+  subtype: presentation
+  speakers: [halleluyah, damilare]
   language: en
   complexity: "Intermediate"
   presentation: "tbd"
@@ -329,7 +338,7 @@
   presentation: ""
 - 
   id: snapshot_talks
-  title: "Snapshot Talks [Junior & Early Researchers(9 talks@10min)]"
+  title: "Snapshot Talks [Junior & Early Researchers]"
   subtype: presentation
   speakers: []
   language: en
@@ -364,17 +373,17 @@
 #Work Shop Day 2---------------------------------------------------------------------------
 -
   id: nssf
-  title: "Keynote:# TBD"
+  title: "Keynote:# Agile Deployment of AI in Industry"
   subtype: presentation
   speakers: [nssf]
   language: en
   complexity: "Intermediate"
   presentation: "tbd"
 - 
-  id: christian_humberto
-  title: "TBD"
+  id: leveraging_on_radio
+  title: "Leveraging on Radio Telementry and Data Analytics to Understand Fruit Bat Movement Pattern"
   subtype: presentation
-  speakers: [humberto]
+  speakers: [halleluyah, damilare]
   language: en
   complexity: "Intermediate"
   presentation: "tbd"
@@ -382,7 +391,7 @@
   id: markus_kaiser
   title: "TBD"
   subtype: presentation
-  speakers: [markus]
+  speakers: [markus, humberto]
   language: en
   complexity: "Intermediate"
   presentation: "tbd"
@@ -401,7 +410,7 @@
   speakers: [damon]
   language: en
   complexity: "Intermediate"
-  presentation: "tbd"
+  presentation: "https://drive.google.com/file/d/1ZuO5xZ-JZadRpVzkBq9wxIMItMAQTisv/view?usp=sharing"
 - 
   id: AI_community_experience
   title: "AI Community Experience"
@@ -426,6 +435,14 @@
   language: en
   complexity: "Intermediate"
   presentation: "tbd"
+#- 
+#  id: snapshot_talks
+#  title: "Snapshot Talks"
+#  subtype: presentation
+#  speakers: [morine]
+#  language: en
+#  complexity: "Intermediate"
+#  presentation: "tbd"
 - 
   id: closing
   title: "Closing"
